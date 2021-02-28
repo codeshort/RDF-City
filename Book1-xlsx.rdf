@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/">
+
+<rdf:Description rdf:about="http://nitp.ac.in/professor/ArunKumar">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+	<foaf:name rdf:resource="http://nitp.ac.in/name/ArunKumar"/>
+	<dct:subject>Mechanical Engg</dct:subject>
+	<dbp:occupation>Associate Professor</dbp:occupation>
+	<foaf:topic_interest>Heat Exchanger; Mechanical Design; Strength of Materials; Power plant; Fuel &amp; combustion</foaf:topic_interest>
+	<dbo:AcademicJournal>1. Lawakush Jaiswal, Mohammad Ul Hassan &amp; Arun Kumar, , Experimentation and thermal analysis of cylindrical and conical shaped fins.. International Journal of Mechanical Engineering (IJME). Vol. 71, Issue 4, Jun- Jul - 2018,,1-10, ISSN (P): 2319-2240; ISSN (E): 2319-2259,© IASET..;  2. Rajnish Kumar &amp; Arun Kumar, Experimental Study of Concentric Tube Heat Exchanger Using Cuo–Water based Nanofluid. Journal of Mechanical Engineering Research and Developments, ISSN: 1024-1752. Vol. 41(No. 1) - 2018,Pp. 190-198, DOI: 10.7508/jmerd.2018.01.022.; 3. Arun Kumar ,Om Prakash, Optimization of net work output &amp; efficiency of gas turbine. IJETAE. 3(4), April - 2013,732-739, ISSN 2250-2459.; 4.Arun Kumar &amp; S. K. Verma, Performance analysis of staggered wire mesh matrix regenerative heat exchanger. International Journal of Mechanical Engineering (IJME). Vol. 7, Issue 5,, Aug - Sep 20, 11-18, .</dbo:AcademicJournal>
+	<dbo:AcademicSubject>Heat Trasfer    Power plant Engineering    Strength of Materials    Design of Machine Elements    Heat Exchanger Design    Experemental Stress  Analysis    Elements of Mechanical Engineering</dbo:AcademicSubject>
+	<dbo:AcademicConference> Deen Bandhu, Abhishek Singh and Arun Kumar,Experimental Analysis of Desiccant based Water Recovery System from Atmospheric Air, International conference on Advances and soft computing applications in designs and manufacturing (ACADAM-2018).  NIT Patna,4-6 June - 2018, ISBN: 978-93-86724-81-6.</dbo:AcademicConference>
+	<dbo:education>1. Ph.D - N.I.T. Patna - 2019;2. M.Tech. - I.S.M. Dhanbad - 1993; 3. Bsc.Engg.(Mechanical) - B.I.T. Sindri - 1988</dbo:education>
+	<foaf:mbox rdf:resource="http://nitp.ac.in/arun@nitp.ac.in"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/professor/Dr.AjayKumar">
+	<dbo:education>1. Ph. D - NIT Patna - 2018;2. MCP - IIT Kharagpur</dbo:education>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+	<foaf:name rdf:resource="http://nitp.ac.in/name/Dr.AjayKumar"/>
+	<dct:subject>Architecture</dct:subject>
+	<dbp:occupation>Assistant professor</dbp:occupation>
+	<foaf:topic_interest>Architecture, Urban Planning, Sustainable Development</foaf:topic_interest>
+	<dbo:AcademicJournal>NIL</dbo:AcademicJournal>
+	<dbo:AcademicSubject>Architectural Design    City Planning and Urban Design    Infrastructure Planning    Traffic and Transportation Planning    Planning Workshop</dbo:AcademicSubject>
+	<dbo:AcademicConference>NIL</dbo:AcademicConference>
+	<foaf:mbox rdf:resource="http://nitp.ac.in/arajay@nitp.ac.in"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/professor/AKSahani">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+	<foaf:name rdf:resource="http://nitp.ac.in/name/AKSahani"/>
+	<dct:subject>Electrical</dct:subject>
+	<dbp:occupation>Associate Professor</dbp:occupation>
+	<foaf:topic_interest>Control System Power, System Protection, Network Theory</foaf:topic_interest>
+	<dbo:AcademicJournal>1. Md.Hasmat Ali, A.K.Sahani, Study, Implementation and comparison of Different Multipliers based on Array KCM and Vedic Mathematics Using EDA Tools.. IJSRP. vol 3(Issue-6), June - 2013,ISSN 2250-3153.;Niranjan Kumar, M.M.Choudhary, A.K.Sahani, Microprocessor based Measurement of Transmission Line Parameters Under Fault Conditions For Distance Relaying.  IETECH . vol 3(No.2) - 2009,065-069, .</dbo:AcademicJournal>
+	<dbo:AcademicSubject>Network Analysis and Synthesis    Electrical Machine -1 Lab    Electrical Measurement and Instrument Lab    B.Tech Project    M.Tech Dissertation &amp; Seminar</dbo:AcademicSubject>
+	<dbo:AcademicConference>1. Anil Kumar Sahani, Niranjan Kumar , Microprocessor Based Numerical Energy Meter , Proceeding of National Conference on Industrial Electronics, Drives and Embedded System (IEDES-2009).  BRCM, Bahal, Haryana,March - 2009, .</dbo:AcademicConference>
+	<dbo:education>M. Sc Engineering - Bihar Collage of Engineering - 2002;B. Sc Engineering - Bihar Collage of Engineering - 1983</dbo:education>
+	<foaf:mbox rdf:resource="http://nitp.ac.in/aksahani@nitp.ac.in"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/professor/AbdurRahmanQuaff">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+	<foaf:name rdf:resource="http://nitp.ac.in/name/AbdurRahmanQuaff"/>
+	<dct:subject>Civil Engg</dct:subject>
+	<dbp:occupation>Associate Professor</dbp:occupation>
+	<foaf:topic_interest>Water and Wastewater Treatment Through Biological Process,Physicochemical Process, Ozonation</foaf:topic_interest>
+	<dbo:AcademicJournal>1. S. Venkatesh, A.R.Quaff, N. D. Pandey (2014) , “The use of ozonation and biological processes for treatment of textile azo dye wastewater”, National Conference on “Water Resources Management – Achievements &amp; Challenges (WRM-AC 2014) .  Jamia Millia Islamia University, New Delhi, India, ,March 22nd - 2014, .
+
+2.Smita Venkatesh, A R Quaff and N D Pandey , Treatment and Reuse of Dye Wastewater from the Textile Industry: A Review of Advanced Treatment Technologies,  International Conference IWW-2013 Efficient Water management: Challenges and Opportunities.   Vigyan Bhawan Delhi, India.,8-14 April - 2013, 
+
+Smita Venkatesh, A R Quaff and N D Pandey , Treatment and Reuse of Dye Wastewater from the Textile Industry: A Review of Advanced Treatment Technologies,  International Conference IWW-2013 Efficient Water management: Challenges and Opportunities.   Vigyan Bhawan Delhi, India.,8-14 April - 2013, .
+
+A R Quaff and Bhumika Singh , Health Effect of Air Pollution: A case study of Allahabad City, India, 3rd International Conference on Environmental Pollution and .  Toronto, Canada,July 15-17 - 2013,
+
+A R Quaff and Bhumika Singh , Health Effect of Air Pollution: A case study of Allahabad City, India, 3rd International Conference on Environmental Pollution and .  Toronto, Canada,July 15-17 - 2013,
+
+A. R. Quaff, Vibha.J.A., Richa.P., Saumyen Guha, C.S.Harendranath (2008) , Enhanced Granulation Using Natural Polymers in UASB Reactors Treating Domestic Wastewater,  International Water work Association (IWWA) Conference .  Vienna, Austria,7-12 Septemb - 2008, .
+
+A. R.Quaff, Vibha.J.A., Saumyen Guha, C.S.Harendranath, Stability of Granules in UASB Reactor Testing Low Strength Waste Water, International conference .   Bengal Engineering &amp; Science University, Shibpur India. ,11-14 Jan - 2007, .
+</dbo:AcademicJournal>
+	<dbo:AcademicSubject>Environmental Engineering II    Material Science &amp;Technology    Environmental Sanitation    Air And Noise Pollution    Ground Water Engineering    Fluid Mechanics &amp; Hydraulics    Environmental Chemistry &amp; Microbiology    Environmental Engineering-I</dbo:AcademicSubject>
+	<dbo:AcademicConference>1. S. Venkatesh, A.R.Quaff, N. D. Pandey (2014) , “The use of ozonation and biological processes for treatment of textile azo dye wastewater”, National Conference on “Water Resources Management – Achievements &amp; Challenges (WRM-AC 2014) .  Jamia Millia Islamia University, New Delhi, India, ,March 22nd - 2014, .
+
+Smita Venkatesh, A R Quaff and N D Pandey , Treatment and Reuse of Dye Wastewater from the Textile Industry: A Review of Advanced Treatment Technologies,  International Conference IWW-2013 Efficient Water management: Challenges and Opportunities.   Vigyan Bhawan Delhi, India.,8-14 April - 2013, .
+
+Smita Venkatesh, A R Quaff and N D Pandey , Treatment of Dye wastewater through combination of Biological and Advanced Oxidation Processes, International Conference on Chemistry frontiers and challenges .  A.M.U., Aligarh, India,2-3 March - 2013, .
+
+A R Quaff and Bhumika Singh , Health Effect of Air Pollution: A case study of Allahabad City, India, 3rd International Conference on Environmental Pollution and .  Toronto, Canada,July 15-17 - 2013, .
+
+Abdur Rahman Quaff, Sisir Mondal , Effect of Upflow Velocity on Mixing in the UASB Reactor Treating Low Strength Wastewater,  International Conference on Emerging Technologies for Sustainable Environment.  Z.H.College of Engineering &amp; Technology, A.M.U., Aligarh INDIA in Collaboration with La Sierra University, U.S.A. and Asia Pacific University, Thailand,29-30 Octobe - 2010, .
+
+A. R. Quaff, Vibha.J.A., Richa.P., Saumyen Guha, C.S.Harendranath (2008) , Enhanced Granulation Using Natural Polymers in UASB Reactors Treating Domestic Wastewater,  International Water work Association (IWWA) Conference .  Vienna, Austria,7-12 Septemb - 2008, .
+
+A. R.Quaff, Vibha.J.A., Saumyen Guha, C.S.Harendranath, Stability of Granules in UASB Reactor Testing Low Strength Waste Water, International conference .   Bengal Engineering &amp; Science University, Shibpur India. ,11-14 Jan - 2007, .
+
+Ashish Tiwari, A.R.Quaff., R.P. Tiwari , Chitosan Cryogel as polymeric filter media and adsorbent , National Conference on Recent Advances in Civil Engineering (RACE-2013).  NIT Patna, India,13-14 June - 2013, .
+
+A R Quaff and Smita Venkatesh , �Degradation and Mineralization of Azo Dyes Textile Effluent using Biological and Advanced Oxidation Processes� - National Conference on Recent Advances in Civil Engineering (RACE-2013) , National Conference on Recent Advances in Civil Engineering (RACE-2013).  NIT Patna, India,13-14 June - 2013, .</dbo:AcademicConference>
+	<dbo:education>Ph.D - IIT Kanpur - 2009;
+M. Tech - Aligarh Muslim University, Aligarh - 2003
+B.Tech - BIT Sindri, Dhanbad - 1998</dbo:education>
+	<foaf:mbox rdf:resource="http://nitp.ac.in/arquaff@nitp.ac.in"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/professor/AbhayKumar">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+	<foaf:name rdf:resource="http://nitp.ac.in/name/AbhayKumar"/>
+	<dct:subject>Computer Science Engg</dct:subject>
+	<dbp:occupation>Assistant Professor</dbp:occupation>
+	<foaf:topic_interest>Software Defined Network, Computer Security, Cyber Security, Smart Grid Security, Computer Network</foaf:topic_interest>
+	<dbo:AcademicJournal>NIL</dbo:AcademicJournal>
+	<dbo:AcademicSubject>1. Advance Computer NetworkOperating SystemsIntroduction to ComputingComputer NetworkWeb Programming</dbo:AcademicSubject>
+	<dbo:AcademicConference>NIL</dbo:AcademicConference>
+	<dbo:education>1. PhD - IIT Kanpur - Ongoing
+M. Tech (IT) - IIIT Bangalore;
+B. E. (CSE) - BCE Bhagalpur</dbo:education>
+	<foaf:mbox rdf:resource="http://nitp.ac.in/abhay.kumar@nitp.ac.in"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/professor/AbhishekKumarBittu">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+	<foaf:name rdf:resource="http://nitp.ac.in/name/AbhishekKumarBittu"/>
+	<dct:subject>Architecture</dct:subject>
+	<dbp:occupation>Assistant Professor</dbp:occupation>
+	<foaf:topic_interest>Architecture, Housing, Urban planning, Water supply and sanitation, Sustainable Development</foaf:topic_interest>
+	<dbo:AcademicJournal>NIL</dbo:AcademicJournal>
+	<dbo:AcademicSubject>1. Appropriate Building Technology2. Design for Barrier Free Environment3. Housing Studio4. Advance Computer Application</dbo:AcademicSubject>
+	<dbo:AcademicConference>NIL</dbo:AcademicConference>
+	<dbo:education>1. Master of Planning (Housing) - School of Planning and Architecture, New Delhi - 2017
+2. Bachelor of Architecture - National Institute of Technology, Patna - 2011</dbo:education>
+	<foaf:mbox rdf:resource="http://nitp.ac.in/abhishek.ar@nitp.ac.in"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/professor/AbhishekSingh">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+	<foaf:name rdf:resource="http://nitp.ac.in/name/AbhishekSingh"/>
+	<dct:subject>Mechanical Engg</dct:subject>
+	<dbp:occupation>Assistant Professor - grade 1</dbp:occupation>
+	<foaf:topic_interest>Advanced and Hybrid Machining Processes, Machining of Advanced Materials, Processing and Characterization of Composite Materials, Metal Matrix Composites</foaf:topic_interest>
+	<dbo:AcademicJournal>Nitish Kumar, Abhishek Singh and Kishore Debnath, Effect of fiber weight ratio on the mechanical and water absorption performance of borassus/epoxy composites. Journal of Materials Testing (CARL HANSER VERLAG, GERMANY). , June - 2020,(Accepted) IF: 0.573 SCIE.
+
+
+Nitish Kumar, Abhishek Singh and Kishore Debnath, Influence of Surface Modification on Mechanical Characterization and Water Absorption behavior of Borassus Fruit Fiber Reinforced Composites. Emerging Materials Research. 9(3), 11 June - 2020,1-9, 10.1680/jemmr.19.00067, IF:0.413 (SCIE).
+
+Nitish Kumar and Abhishek Singh, Study the Effect of Fiber Orientation on Mechanical Properties of Bidirectional Basalt Fiber Reinforced Epoxy Composites. Journal of Materials Today: Proceedings. , May - 2020,1-7, 10.1016/j.matpr.2020.05.707, SCOPUS.
+
+Prakhar Kumar Kharwar, Rajesh Kumar Verma and Abhishek Singh, Neural network modeling and combined compromise solution (CoCoSo) method for optimization of drilling performances in polymer nano composites. Journal of Thermoplastic Composite Materials, SAGE Publications. , 16 July - 2020,1-28, 10.1177/0892705720939165, IF: 1.529 (SCI).
+
+Prakhar Kumar Kharwar, Rajesh Kumar Verma and Abhishek Singh, Simultaneous optimisation of quality and productivity characteristics during machining of multiwall carbon nanotube/epoxy nano composites. Australian Journal of Mechanical Engineering (Taylor &amp; Francis). , 22 July - 2020,1-19, 10.1080/14484846.2020.1794511, IF: 0.96 (ESCI).
+
+Nitish Kumar, Abhishek Singh, Kishore Debnath, Niranjan Kumar, Water Absorption and Mechanical Behaviour of Borassus Fruit Fibre-Reinforced Composites. Emerging Materials Research. 9 (1), March - 2020,1-9, Https://doi.org/10.1680/jemmr.19.00044, IF: 0.413, SCIE.
+
+Rahul Davis, Abhishek Singh, Sabindra Kachhap, Neeraj Nath, A Comparative Study of EDD and PM-EDD in Producing Holes in Inconel 718 Alloy. Key Engineering Materials. 833, March - 2020,48-53, SCOPUS.
+
+Nitish Kumar, Abhishek Singh, Kishore Debnath, Rajesh Ranjan, Mechanical Characterization of Animal Hair Based Composites. Indian Journal of Fibre &amp; Textile Research (IJFTR). , October - 2019,(Accepted), IF:0.511, SCI.
+
+Nitish Kumar, Abhishek Singh, Rajesh Ranjan, Fabrication and Mechanical Characterization of Horse Hair (HH) Reinforced Polypropylene (PP) Composites. Journal of Materials Today: Proceedings. 19 - 2019,622-625, DOI: 10.1016/j.matpr.2019.08.078, SCOPUS.
+
+Bassam Khan, Rahul Davis, Abhishek Singh, Effect of Input Variables and Cryogenic Treatment in Wire Electric Discharge Machining of Ti-6Al-4V Alloy for Biomedical Applications. Journal of Materials Today Proceedings . - 2019,(Accepted), SCOPUS.
+
+Sabindra Kachhap, Abhishek Singh and Kishore Debnath, A Study of Material Removal during Electrical-Discharge Drilling of Hybrid Metal Matrix Composites. . Journal of Scientific &amp; Industrial Research. 78(364-367(June)) - 2019,IF: 0.735, SCI.
+
+Sabindra Kachhap, Abhishek Singh and Sanoj Kumar , Performance Evaluation of Different Electrode Geometries in Electric Discharge Drilling of MMCs. . International journal of mechanical engineering and robotics research. 8 (4), July - 2019,(Accepted): SCOPUS.
+
+Sabindra Kachhap, Abhishek Singh and Kishore Debnath, Process Optimization and Comparative Analysis of EDM and EDD Process in Machining Al6063/10% SiC Metal Matrix Composites. . Indian Journal of Engineering and Materials Sciences . - 2018 ,(Accepted), IF:0.794, SCI.
+
+Sabindra Kachhap, Abhishek Singh and Kishore Debnath, Electric Discharge Drilling of Hybrid Metal Matrix Composites using Different Tool Electrodes . Journal of Scientific &amp; Industrial Research. 77(06), June - 2018,325-329, IF: 0.735, SCI.
+
+Ravinder Kumar, Abhishek Singh and Inderdeep Singh, Electric discharge hole grinding in hybrid metal matrix composite. Materials and Manufacturing Processes. 32(2) - 2017,127-134, IF: 3.350, SCIE.
+
+Abhishek Singh, Pradeep Kumar and Inderdeep Singh, Electric Discharge Drilling of Metal Matrix Composites with Different Tool Geometries. Part B: Journal of Engineering Manufacture. 227 - 2013,1245-49, IF: 2.12, SCI.
+
+Abhishek Singh, Pradeep Kumar and Inderdeep Singh, Optimization of Electro-Discharge Drilling on Metal Matrix Composites. Journal of Procedia Engineering, Elsevier. 64 - 2013,1157 - 65, 
+
+Abhishek Singh, Pradeep Kumar and Inderdeep Singh, Design and Development of Electro-Discharge Drilling Process. Advanced Materials Research. 651 - 2013,607-11, .
+
+Sarbjit Singh, Abhishek Singh, Inderdeep Singh, Akshay Dvivedi, Optimization of the Process Parameters for Drilling of Metal Matrix Composites (MMC) Using Taguchi Analysis. Advanced Materials Research. 410 - 2012,249-52, .
+
+Divya Prakash, Mohammad Tariq, Rahul Davis, Abhishek Singh, Kishore Debnath, Influence of Cryogenic Treatment on the performance of Micro- EDM Tool Electrode in machining of Magnesium Alloy AZ-31B. Journal of Materials Today: Proceedings. (Accepted), SCOPUS.</dbo:AcademicJournal>
+	<dbo:AcademicSubject>2ME658: Industrial Organization &amp; Behavior - PG6ME146: Measurement &amp; Instrumentation - UG2ME657: Machining Science - PG2ME657: Machining Science - PG6ME125: Machine Tools &amp; Machining - UG6ME162, ME1724: Operations Research (O.R.) - UG1ME644: Composite Materials - PGME7202: Experimental Methods - PhDME1618, 7ME150: Non-Conventional Manufacturing Process - UG2ME102, MEL1401: Engineering Graphics - UG1ME102: Workshop Practice - UG</dbo:AcademicSubject>
+	<dbo:AcademicConference>1. Nitish Kumar and Abhishek Singh , Effect of Fiber Hybridization on the Mechanical Behaviors of Basalt/Borassus Fruit Fiber (BFF) Reinforced Epoxy Composites, International Conference on Innovative Engineering Design, 18-19 January.  Jointly organized by NIT Uttarakhand, IIT Roorkee and The Institution of Engineers, Uttarakhand State Centre (India) - 2020, (Accepted)..
+
+Divya Prakash, Mohammad Tariq, Rahul Davis, Abhishek Singh, Kishore Debnath, Influence of Cryogenic Treatment on the performance of Micro- EDM Tool Electrode in machining of Magnesium Alloy AZ-31B, 2nd International Conference on “Recent Trends in Metallurgy, Materials Science and Manufacturing -2019 (IMME19), 27-28 December .  National Institute of Technology, Tiruchirappalli - 2019, .
+
+Nitish Kumar and Abhishek Singh, Study the Effect of Fiber Orientation on Mechanical Properties of Bidirectional Basalt Fiber Reinforced Epoxy Composites, 2nd International Conference on “Recent Trends in Metallurgy, Materials Science and Manufacturing -2019 (IMME19), 27-28 December .  National Institute of Technology, Tiruchirappalli - 2019, .
+
+Rahul Davis, Abhishek Singh, Divya Prakash, Abner Ankit Lawrence, Biomaterials and their Surface Modifications: A Review, International Conference on “Mechanical Engineering Design” (ICMechD 2019), at Sri Sivasubramaniya Nadar (SSN) College of Engineering.  Chennai, India,April - 2019, .
+
+Rahul Davis, Abhishek Singh, Bassam Khan, Effect of Input Variables and Cryogenic Treatment in Wire Electric Discharge Machining of Ti-6Al-4V Alloy for Biomedical Applications, International Conference on Materials and Manufacturing Methods (MMM 2019).  National Institute of Technology Tiruchirappalli (NITT), India,July - 2019, (Accepted).
+
+Rahul Davis, Abhishek Singh, Tanya Singh, Subham Chettri, V Vikali Sumi, Alomi P. Zhimomi, Stephen Dilip Mohapatra , Optimization of Input Control Variables in Electric Discharge Machining of Inconel-718, International Conference on “Innovative Product Design and Intelligent Manufacturing System” (ICIPDIMS 2019).  National Institute of Technology Rourkela (NITR), Rourkela, India,May - 2019, .
+
+Rahul Davis, Abhishek Singh and Sabindra Kachhap , Experimental Investigation of Effect of Input Control Variables of Near Dry Electric Discharge Drilling Process, Materials Processing and Characterization (ICMPC-2019).  ICMPC-2019, Hyderabad, India. ,March - 2019, .
+
+Sabindra Kachhap, Abhishek Singh, Rahul Davis and Neeraj Nath, Comparative Study of EDD and PM-EDD in producing Holes in Inconel 718 alloy, Material and Manufacturing Technology, ICMMT 2019.  University of Malaya and Ambassador Row Hotel Suites by Lanson Place, Kuala Lumpur, Malaysia,April - 2019, .
+
+Nitish Kumar, Petta Avinash, Abhishek Singh, Kishore Debnath, EFFECT OF FIBER ORIENTATION ON THE TENSILE AND WEAR PROPERTIES OF FLAX FIBER-REINFORCED COMPOSITES, IC-RIDME 2018.  NIT Meghalaya, Shillong - 2018, 
+
+Sabindra Kachhap, Abhishek Singh and Sanoj Kumar, Performance Evaluation of Different Electrode Geometry in Electric Discharge Drilling of MMCs, ICDMM-2018.  University of the Ryukyus, Japan,August - 2018, .
+
+Sabindra Kachhap, Abhishek Singh and Deepak Sagar, Experimental Study of Process Parameters in Electric Discharge Turning of Stainless Steel Utilizing Taguchi Method, ASCADM-2018 .  24-28, NIT PATNA ,June - 2018, .
+
+Nitish Kumar, Abhishek Singh and Petta Avinash, Effect of Fiber Content on Mechanical Property and Water Absorption Behaviour of Jute Fiber-Epoxy Composites, ASCADM-2018.  487-490, NIT PATNA ,June - 2018, .
+
+Munna Verma , Sabindra Kachhap , A.N Sinha and Abhishek Singh, CFD Simulation using Two-Fluid Model for The Design of Bubbling Fluidized Bed Reactor, ASCADM-2018.  362-366, NIT PATNA ,June - 2018, .
+
+Deen Bandhu, Abhishek Singh and Arun Kumar, Experimental Analysis of Desiccant based Water Recovery System from Atmosphric Air, ASCADM-2018.  338-347, NIT PATNA ,June - 2018, .
+
+Sabindra Kachhap, Abhishek Singh, Petta Avinash, Experimental investigation of Electric Discharge Drilling with Multiple Hole Electrodes on MMCs, ICAPIE 2017.  DTU New Delhi , October - 2017, .
+
+Sabindra Kachhap, Abhishek Singh, Prediction of controllable process variables on various workpieces materials in CNC-WEDM, ICEMIT 2017.  Amity University Ranchi , December - 2017, .
+
+Nitish Kumar, Niranjan Kumar, Abhishek Singh, Mechanical Properties and Water Absorption Behaviour of Human Hair and Borassus Fruit Fibre/Human Hair Hybrid Composite, ICAPIE 2017.  DTU New Delhi , October - 2017, .
+
+Abhishek Singh, Sabindra Kachhap, Ravinder Kumar, Experimental Investigation of EDD on Hybrid Metal Matrix Composites, PFAM 2014.  IIT Roorkee,December - 2014, .
+
+Abhishek Singh et al. , Optimization of electro-discharge drilling on metal matrix composites, ICoNDM 2013.  IIITDM Kanchipuram - 2013, .
+
+Abhishek Singh et al. , Design and development of electro-discharge drilling process, ICAM 2012.  Singapore - 2012, .
+
+Abhishek Singh et al. , A Study of EDD process on developed hybrid metal matrix composite, ICAM 2012.  IIT BHU - 2012, .
+
+Abhishek Singh et al. , Multi-response optimization for quality features in ED-drilling on hybrid metal matrix composite, PFAM-2012.  IIT Guwahati - 2012, .
+
+Abhishek Singh et al. , Prediction of optimal process parameters for WEDM of tungsten carbide using Taguchis robust methodology, ICCMM-2011.  IIT Guwahati - 2011, .
+
+Abhishek Singh et al. , Experimental study on WEDM of mild steel using Taguchis robust methodology, CPIE-2010.  Dr. B R Ambedkar National Institute of Technology, Jalandhar - 2010, .
+
+Nitish Kumar, Abhishek Singh and Sonalal Kumar Ray, Mechanical Characterization of Betel Nut Natural Powder Reinforced Epoxy Composites, NATIONAL CONFERENCE ON FUTURISTICS IN MECHANICAL ENGINEERING (FME-2019).  1-6, MADAN MOHAN MALAVIYA UNIVERSITY OF TECHNOLOGY GORAKHPUR (U.P),28-29 March - 2019, ISBN: 978-81-933908-3-2.
+
+Abhishek Singh et al. , Wire electro-discharge machining of different work-piece materials: experimental study, NCAMT-2013.  NITTTR Chandigarh - 2013, .
+
+Abhishek Singh et al. , Casting of SiC/Gr/Al2O3 reinforced hybrid metal matrix composite, AMMSD-2012.  HBTI Kanpur - 2012, .
+
+Abhishek Singh and Dipankar Bose, Modeling of process variables for MRR in EDM using response surface methodology, Recent Advances in Manufacturing Technology and Management (RAMTM 2010).  Jadavpur university ,February - 2010, .
+
+Abhishek Singh et al. , Study of tool wear in secondary processing of metal matrix composites, National Conference on Futuristic Trends in Mechanical Engineering .  GNDEC, Ludhiana - 2010, .
+
+Abhishek Singh et al. , Interfacial characterization of tungsten matrix composites with copper coated interface, AMPD-2010.  S V National Institute of Technology Surat - 2010, .</dbo:AcademicConference>
+	<dbo:education>1. Ph.D (Department of Mechanical and Industrial Engineering) - IIT Roorkee - 2014</dbo:education>
+	<foaf:mbox rdf:resource="http://nitp.ac.in/abhishek.singh@nitp.ac.in"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/professor/AjayKumar">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+	<foaf:name rdf:resource="http://nitp.ac.in/name/AjayKumar"/>
+	<dct:subject>Civil Engg</dct:subject>
+	<dbp:occupation>Assistant Professor</dbp:occupation>
+	<foaf:topic_interest>For online expert lectures/seminar/workshop/internships contact me at 7549990794.A good post graduate in any discipline who want to pursue PhD may contact me.My research areas are Concrete structures, Smart structures,Bridge Engineering, Earthquake resistant design, Finite element analysis.My research work details are at: https://www.researchgate.net/profile/Ajay_Kumar94</foaf:topic_interest>
+	<dbo:AcademicJournal>1. Abhay Kumar Chaubey, Ajay Kumar, Anupam Chakrabarti, A novel shear deformation model for moderately thick and deep laminated composite conoidal shell. Mechanics Based Design of Structures and Machines. , 01 - 2018,Https://doi.org/10.1080/15397734.2017.1422433.
+
+Abhay Kumar Chaubey, Ajay Kumar, Anupam Chakrabarti, Vibration of laminated composite shells with cutouts and concentrated mass. AIAA Journal. , 11 - 2017,Https://doi.org/10.2514/1.J056320.
+
+Md Irfan Ansari, Ajay Kumar, Anupam Chakrabarti, Static analysis of doubly curved singly ruled truncated FGM cone. Composite Structures. 184, 10 - 2017,523-535, Https://doi.org/10.1016/j.compstruct.2017.10.028.
+
+Ajay Kumar, Anupam Chakrabarti, Failure analysis of laminated composite skew laminates. Procedia Engineering. 173 - 2017,1560-1566, Https://doi.org/10.1016/j.proeng.2016.12.245.
+
+Ajay Kumar, Anupam Chakrabarti, Pradeep Bhargava, Vibration analysis of laminated composite skew cylindrical shells using higher order shear deformation theory. Journal of Vibration and Control. - 2015
+
+Ajay Kumar, Anupam Chakrabarti, Pradeep Bhargava, Rajib Chaudhary, Probabilistic failure analysis of laminated sandwich shells based on higher order zigzag theory. Journal of Sandwich Structures &amp; Materials. , 03 - 2015,Http://jsm.sagepub.com/content/early/2015/03/20/1099636215577368.abstract.
+
+Ajay Kumar, Anupam Chakrabarti, Pradeep Bhargava, Efficient failure analysis of laminated composites and sandwich cylindrical shells based on higher order zigzag theory. Journal of Aerospace Engineering (ASCE). - 2014,.
+
+Ajay Kumar, Anupam Chakrabarti, Pradeep Bhargava, Failure analysis of laminated composite spherical shells based on higher order theory laminated composite skew hypar shells. International Journal of Mechanical and Production Engineering. - 2014,.
+
+Ajay Kumar, Anupam Chakrabarti, Pradeep Bhargava, Accurate dynamic response of laminated composites and sandwich cylindrical shells based on higher order zigzag theory. Thin-Walled Structures. - 2014,.
+
+Ajay Kumar, Anupam Chakrabarti, Pradeep Bhargava, Vibration of laminated composite shells with cutouts using higher order shear deformation theory. International Journal of Scientific and Engineering Research. - 2013,.
+
+Ajay Kumar, Anupam Chakrabarti, Pradeep Bhargava, Finite element analysis of laminated composite and sandwich shells using higher order zigzag theory. Composite Structures. - 2013,.
+
+Ajay Kumar, Anupam Chakrabarti, Pradeep Bhargava, Vibration of laminated composites and sandwich shells based on higher order zigzag theory. Engineering Structures. - 2013,.
+
+Ajay Kumar, Anupam Chakrabarti, Pradeep Bhargava, Vibration of laminated composite skew hypar shells using higher order theory. Thin-Walled Structures. - 2013,.
+
+Ajay Kumar, Anupam Chakrabarti, Pradeep Bhargava, Natural frequencies and mode shapes of with complicated boundary conditions using finite element method. Advanced Materials Research. - 2012,.
+
+Ajay Kumar, Anupam Chakrabarti, Pradeep Bhargava, Analysis of laminated composite skew shells using higher order shear deformation theory. Latin American Journal of Solids and Structures. - 2012,.
+
+For all my published papers copy this link and paste in browser., https://scholar.google.com/citations?view_op=list_works&amp;hl=en&amp;user=ze7y3zIAAAAJ. .
+
+Ajay Kumar, Anupam Chakrabarti, Pradeep Bhargava, Finite element analysis of failure of laminated composite skew cylindrical shells. International Journal of Global Technology Initiatives. , 2013.
+
+</dbo:AcademicJournal>
+	<dbo:AcademicSubject>Bridge EngineeringMechanics of composite materialsMechanics of solidsTheory of plates and shellsConcrete structuresFinite element methodStructural analysisSteel structures</dbo:AcademicSubject>
+	<dbo:AcademicConference>Ajay Kumar, Anupam Chakrabarti, Pradeep Bhargava, 
+Vibration of laminated sandwich plates under concentrated mass and cutouts using refined higher order shear deformation theory , MechComp2014 .  Stony Brook University (Long Island, NY State, USA),8-12 June - 2014, 
+
+Ajay Kumar, Anupam Chakrabarti, Pradeep Bhargava, Free vibration of laminated composite skew plates with concentrated mass, ICFM - 2014.  IIT Kharagpur,5 � 7 Feb. - 2014, .
+
+Ajay Kumar, Anupam Chakrabarti, Pradeep Bhargava, Vibration of laminated composite skew plates with cutouts using higher order shear deformation theory, ICPAM 2014.  IIT Patna,30-31 May - 2014, .
+
+Ajay Kumar, Anupam Chakrabarti, Pradeep Bhargava, Dynamic response of laminated composite spherical shells with concentrated mass using higher order shear deformation theory, ICTACEM 2014.  IIT Kharagpur,29-31 Dec. - 2014, .
+
+Ajay Kumar, Anupam Chakrabarti, Pradeep Bhargava, Failure analysis of laminated composite spherical shells based on higher order theory, ICARME 2013.  Delhi,24 February - 2013, .
+
+Ajay Kumar, Anupam Chakrabarti, Pradeep Bhargava, Finite element analysis of failure of laminated composite skew cylindrical shells, ICGTI 2013.  Rizvi college, Mumbai,29-30 March - 2013, .
+
+Ajay Kumar, Anupam Chakrabarti, Pradeep Bhargava, Vibration of laminated composite shells with cutouts using higher order shear deformation theory, ICICE2013.  SCMS college, Karukutty,9-10 May - 2013, .
+
+Ajay Kumar, Anupam Chakrabarti, Pradeep Bhargava, Finite element analysis of free vibration of laminated composite spherical shells with cutouts, ICSEM2013.  NIT Rourkela,20-22 Decemb - 2013, .
+
+Ajay Kumar, Anupam Chakrabarti, Pradeep Bhargava, Natural frequencies and mode shapes of laminated composite skew hypar shells with complicated boundary conditions using finite element method, AMPCO 2012.  IIT Roorkee,2-4 November - 2012, .
+
+Ajay Kumar, Anupam Chakrabarti, Pradeep Bhargava, C0 FE model based on HOZT for vibration analysis of laminated composites and sandwich shells, ACMFMS2012.  IIT Delhi,5-8 December - 2012, .
+
+Ajay Kumar, Anupam Chakrabarti, Pradeep Bhargava, An efficient finite element analysis based on improved higher order theory for the analysis of laminated composite and sandwich shells, ICCMS-2012.  IIT Hyderabad,9-12 Decembe - 2012, .</dbo:AcademicConference>
+	<dbo:education>1. B.Tech with distinction - MMMUT Gorakhpur
+2. M.Tech. with distinction - IIT Guwahati
+3. All India Rank in GATE Exam-228 - IISc Bangalore
+Ph.D. - IIT Roorkee</dbo:education>
+	<foaf:mbox rdf:resource="http://nitp.ac.in/ajay@nitp.ac.in"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/professor/AJAYKUMARSINHA">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+	<foaf:name rdf:resource="http://nitp.ac.in/name/AJAYKUMARSINHA"/>
+	<dct:subject>Civil Engg</dct:subject>
+	<dbp:occupation>Professor</dbp:occupation>
+	<foaf:topic_interest>EARTHQUAKE ENGINEERING, DISASTER MANAGEMENT, RETROFITTING, VULNERABILITY ASSESSMENT, MULTI HAZARD RESILIENCE, Quality Assurance, Safety Audit, Reliability Engineering</foaf:topic_interest>
+	<dbo:AcademicJournal>NIL</dbo:AcademicJournal>
+	<dbo:AcademicSubject>RELIABILTY ENGINEERINGADVANCED STRUCTURAL ANALYSISSTRUCTURAL DYNAMICSSTRUCTURAL HEALTH MONITORINGEARTHQUAKE RESISTANT DESIGN OF BUILDINGSMECHANICS OF SOLIDS-IMECHANICS OF SOLIDS-IISTRUCTURAL ANALYSISRCC DESIGN-IRCC DESIGN-IICONSTRUCTION MANAGEMENTCONCRETE TECHNOLOGY</dbo:AcademicSubject>
+	<dbo:AcademicConference>NIL</dbo:AcademicConference>
+	<dbo:education>1. PhD - DU, DELHI - 2006
+2. MBA - IGNOU - 2006
+3. ME - IIT ROORKE - 1989
+4. B TECH - IIT BHU, VARANASI - 1986</dbo:education>
+	<foaf:mbox rdf:resource="http://nitp.ac.in/aksinha@nitp.ac.in"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/professor/AjitKumar">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+	<foaf:name rdf:resource="http://nitp.ac.in/name/AjitKumar"/>
+	<dct:subject>Electrical Engg</dct:subject>
+	<dbp:occupation>Assistant Professor</dbp:occupation>
+	<foaf:topic_interest>Power System Dynamics and Control, High Performance Computing in Power System. Website: https://sites.google.com/view/kumarajit</foaf:topic_interest>
+	<dbo:AcademicJournal>1. Ajit Kumar, Nonlinear AVR for power system stabilisers robust phase compensation design.  IET Generation, Transmission &amp; Distribution. 14(21), 11 - 2020,4927-4935, 10.1049/iet-gtd.2020.0092..
+
+
+Ajit Kumar, On the Rotor Angle and Voltage Dynamics Decoupling in Synchronous Generators with Nonlinear AVR. Electric Power Components and Systems. 47(16) - 2019,1514-1523, DOI: 10.1080/15325008.2019.1666180.
+
+Ajit Kumar, Power System Stabilizers Design for Multimachine Power Systems Using Local Measurements. IEEE Tran. Power Syst.. 31(3), 05 - 2016,2163-2171, .
+
+Ajit Kumar, Ideal AVR and PSS - A Theoretical Study. IET Gener. Transmiss. Distrib.. 10.1049/iet-gtd.2020.1247 .
+</dbo:AcademicJournal>
+	<dbo:AcademicSubject>1. Power System Stability and Control2. Modern power system operation and control3. SCADA and Energy Management</dbo:AcademicSubject>
+	<dbo:education>1. PhD - IISc Bangalore - 2018
+2. M.S (Engg) - IISc Bangalore - 2011
+3. B.Tech - NIT Jamshedpur - 2006</dbo:education>
+	<foaf:mbox rdf:resource="http://nitp.ac.in/ajitk.ee@nitp.ac.in"/>
+</rdf:Description>
+
+</rdf:RDF>
