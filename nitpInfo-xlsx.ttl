@@ -1,0 +1,1704 @@
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix dbp: <http://dbpedia.org/property/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix dbc: <http://dbpedia.org/resource/Category:> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix dbr: <http://dbpedia.org/resource/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+
+
+<http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/> a dbo:University;
+  dbo:Dean """Prof. Fulena Rajak
+""", """Prof. Lal Bahadur Roy
+""", """Prof. Om Prakash
+""",
+    """Prof. Prakash Chandra
+""", """Prof. S. K. Verma
+""";
+  dbo:abstract "National Institute of Technology Patna is the 18th National Institute of Technology created by the Ministry of H.R.D. Government of India after rechristening the erstwhile Bihar College of Engineering Patna on 28. 01. 2004. NIT Patna marked its humble beginning in 1886 with the establishment of pleaders survey training school which was subsequently promoted of Bihar College of Engineering Patna in 1924. This made this institute the 6th Oldest Engineering Institute of India. The graduate level curriculum was later elevated to the post graduate level in 1978. The institute is situated on the south bank of holy river Ganges behind Gandhi Ghat, one of the most important and reverential place of Patna. The Gandhi Ghat is associated with the immersion of ashes of father of the Nation Mahatma Gandhi in the river Ganges. The campus has a picturesque river view with historic building presenting a spectacle of architectural delight and natural beauty.        National Institute of Technology Patna has been declared as an Institute of National Importance and has been granted a fully Autonomous Status by MHRD, Government of India. The Institute has also been declared as a Centre of Excellence of impart high level education training , research and development in science, engineering technology and humanities. It is imparting high quality education & values at UG (B.Tech), PG (M.Tech) & Ph .D programmes through its experienced faculty well versed in their respective field of engineering an technology with well equipped laboratories . At present the Institute has seven disciplines viz. Architecture, Civil Engineering, Compute Science & Engg., Electrical Engg., Electronics & Communication Engg., Information Technology and Mechanical Engg., and well established departments of physics, Mathematics and Humanities and Social Science.        National Institute of Technology Patna aims at setting out very high education standards and holds long record of academic excellence. The pedagogical aspects have been formulated to suit not only the needs of the contemporary industrial requirements but also to develop human potential to its fullest extent in a range of professions. Extra curricular activities are planed through games and sports, cultural programmes and NSS activities. Cultural activities provide a platform to know about the culture of various states and regions of the country and opportunity for national integration.        Ever since its rechristening, NIT Patna has been on the fast track of development and has undergone numerous facelifts because of which placement records have witnessed unprecedented growth and is touching new heights as the graph of placement is increasing remarkably.    ";
+  dbo:address """National Institute of Technology Patna, Ashok Rajpath, Mahendru, Patna, Bihar (800005), India
+""";
+  dbo:board <http://nitp.ac.in/BOG/ChairpersonActgBOGNITPatna/>, <http://nitp.ac.in/BOG/ExOfficioMember/>,
+    <http://nitp.ac.in/BOG/Member/>, <http://nitp.ac.in/BWC/ExOfficioChairperson>, <http://nitp.ac.in/BWC/ExOfficioMember>,
+    <http://nitp.ac.in/FC/ChairpersonActgBOGNITPatna>, <http://nitp.ac.in/FC/Member>,
+    <http://nitp.ac.in/IDC/Chairman>, <http://nitp.ac.in/IDC/Member>, <http://nitp.ac.in/Senate/ExOfficioChairman>,
+    <http://nitp.ac.in/Senate/Member>;
+  dbo:chairman """Prof. Pradip Kumar Jain
+""";
+  dbo:committee <http://nitp.ac.in/ServiceUnit/EstablishmentAdministration/>, <http://nitp.ac.in/ServiceUnit/Examinations/>,
+    <http://nitp.ac.in/ServiceUnit/Personnel/>;
+  dbo:company <http://nitp.ac.in/recruiters/ABBLtd/>, <http://nitp.ac.in/recruiters/AccentureServicePvtLtd/>,
+    <http://nitp.ac.in/recruiters/AdaniPowerLtdAhmadabad/>;
+  dbo:department <http://nitp.ac.in/department/Architecture/>, <http://nitp.ac.in/department/CivilEngineering/>,
+    <http://nitp.ac.in/department/ComputerScienceEngineering/>;
+  dbo:mission """To generate new knowledge by engaging in cutting-edge research and to promote academic growth by offering state-of-the-art undergraduate, postgraduate and doctoral programmes
+""",
+    """To identify, based on an informed perception of Indian, regional and global needs, areas of specialization upon which the Institute can concentrate
+""",
+    """To undertake collaborative projects which offer opportunities for long term interaction with academia and industry
+""";
+  dbo:nirfE "92"^^xsd:int;
+  dbp:director """Prof. Pradip Kumar Jain
+""";
+  dbr:Category:initiative "https://webcast.nitp.ac.in/Panopto/Pages/Viewer.aspx?id=449b9433-c336-4eec-8430-aa164ee27770",
+    "https://webcast.nitp.ac.in/Panopto/Pages/Viewer.aspx?id=8481eb96-881a-4a04-ba70-b30449feeea4.",
+    "https://webcast.nitp.ac.in/Panopto/Pages/Viewer.aspx?id=ea39bab1-3a53-4977-bd25-5bc1e007d502";
+  dct:subject <http://nitp.ac.in/AcademicProgrammesBranch/Architecture/>;
+  a dbo:University;
+  dbo:mission """To develop human potential to its fullest extent so that intellectually capable and imaginatively gifted leaders can emerge in a range of profession
+""";
+  dbo:board <http://nitp.ac.in/BOG/Member/>, <http://nitp.ac.in/BWC/Member>, <http://nitp.ac.in/IDC/Member>,
+    <http://nitp.ac.in/FC/Member>, <http://nitp.ac.in/Senate/Member>;
+  dbo:committee <http://nitp.ac.in/ServiceUnit/TrainingandPlacement/>;
+  dct:subject <http://nitp.ac.in/AcademicProgrammesBranch/CivilEngineering/>;
+  dbo:department <http://nitp.ac.in/department/ElectricalEngineering/>;
+  dct:subject <http://nitp.ac.in/AcademicProgrammesBranch/ComputerScinceEngineering/>;
+  dbo:company <http://nitp.ac.in/recruiters/AdityaBirlaGroupChemical/>;
+  dbr:Category:initiative "https://webcast.nitp.ac.in/Panopto/Pages/Viewer.aspx?id=5559e621-ad4c-4f15-951c-c6618cc8b90b";
+  dct:subject <http://nitp.ac.in/AcademicProgrammesBranch/ElectricalEngineering/>;
+  foaf:Person <http://nitp.ac.in/NA>, <http://nitp.ac.in/placementOfficers/DrSamratMukherjee/>,
+    <http://nitp.ac.in/placementOfficers/DrShaileshMPandey/>;
+  foaf:phone " 0612-237 2715"^^xsd:int, "0612-237 1715"^^xsd:int .
+
+<http://nitp.ac.in/BOG/ChairpersonActgBOGNITPatna/> a dbo:board;
+  dbo:title """Director, NIT Patna
+""";
+  foaf:Person "Prof. Pradip Kumar Jain" .
+
+<http://nitp.ac.in/BWC/ExOfficioChairperson> a dbo:board;
+  dbo:title """Director, NIT Patna
+""";
+  foaf:Person """Prof. Pradip Kumar Jain
+""" .
+
+<http://nitp.ac.in/IDC/Chairman> a dbo:board;
+  dbo:department """Professor, Mech.Engg.Dept.
+""";
+  dbo:title """Dean (Student Welfare)
+""";
+  foaf:Person """Prof. (Dr.) Prakash Chandra
+""" .
+
+<http://nitp.ac.in/FC/ChairpersonActgBOGNITPatna> a dbo:board;
+  dbo:title """Director, NIT Patna
+""";
+  foaf:Person """Prof. Pradip Kumar Jain
+""" .
+
+<http://nitp.ac.in/Senate/ExOfficioChairman> a dbo:board;
+  dbo:title """Director, NIT Patna
+""";
+  foaf:Person """Prof. P. K. Jain
+""" .
+
+<http://nitp.ac.in/ServiceUnit/Personnel/> a dbo:committee;
+  dbo:title """Registrar
+""";
+  foaf:Person """Dr. Asit Narayan
+""" .
+
+<http://nitp.ac.in/AcademicProgrammesBranch/Architecture/> a dct:subject;
+  dbo:Type """Under Graduate Programmes
+""";
+  dbo:duration """5 years
+""";
+  dbr:Category:Academic_degrees """Bachelor of Architecture
+""" .
+
+<http://nitp.ac.in/department/Architecture/> a dbo:department;
+  foaf:mbox "archi@nitp.ac.in";
+  foaf:phone """199
+"""^^xsd:int .
+
+<http://nitp.ac.in/placementOfficers/DrSamratMukherjee/> a foaf:Person;
+  dbo:title """Professor Incharge, Training & Placement Cell
+Associate Professor, Department of Physics
+National Institute Of Technology, Patna-800005 , Bihar
+""";
+  foaf:mbox "samrat@nitp.ac.in";
+  foaf:phone "9973791523"^^xsd:int .
+
+<http://nitp.ac.in/BOG/ExOfficioMember/> a dbo:board;
+  dbo:title """Director, NIT Patna
+""";
+  foaf:Person "Prof. Pradip Kumar Jain" .
+
+<http://nitp.ac.in/BWC/ExOfficioMember> a dbo:board;
+  dbo:title """Director or Deputy Secretary or his nominee
+Dealing with Finance of NITs in Ministry
+""",
+    """Director or Deputy Secretary or his nominee
+Dealing with NITs in Ministry
+""";
+  foaf:Person "NIL" .
+
+<http://nitp.ac.in/IDC/Member> a dbo:board;
+  dbo:department """Associate Professor, Physics Dept.
+""";
+  a dbo:board;
+  dbo:department "NIL", """Asst. Professor, Civil Engg. Dept.
+""", """Professor, Civil Engg. Dept.
+""";
+  dbo:title """Chairman, Hostel Management Committee
+""", """Director’s Nominee
+""",
+    """One faculty nominated by the Senate
+""", """Warden of the Hostel of Residence of which the student concerned is a boarder
+""";
+  foaf:Person """Dr. Samrat Mukherjee
+""", """Dr. T. Roshni
+""", "NIL", """Prof. (Dr.) Vivekanand Singh
+""" .
+
+<http://nitp.ac.in/FC/Member> a dbo:board;
+  dbo:title """Director IIT Patna or his nominee not below the rank of professor
+""",
+    """Director, NIT Patna
+""", """JS and Financial Advisor or his/her nominee
+Department of Higher Education
+Ministry of Human Resources Development
+C-Wing, Shastri Bhawan,
+New Delhi-110 001
+""",
+    """Joint Secretary (Techincal) or his/her nominee
+Department of Higher Education
+Ministry of Human Resources Development
+C-Wing, Shastri Bhawan,
+New Delhi-110 001
+""";
+  foaf:Person "NIL", """Prof. Pradip Kumar Jain
+""" .
+
+<http://nitp.ac.in/Senate/Member> a dbo:board;
+  dbo:title """Professor, Architecture Dept.
+""", """Professor, Chemistry Dept.
+""",
+    """Professor, Civil Engineering Dept.
+""";
+  foaf:Person """Dr. Fulena Rajak
+""", """Dr. L. B. Roy
+""", """Dr. Manoj Kumar
+""",
+    """Dr. Sita Ram Sharma
+""" .
+
+<http://nitp.ac.in/ServiceUnit/EstablishmentAdministration/> a dbo:committee;
+  dbo:title """Deputy Registrar
+""";
+  foaf:Person """Dr. Asit Narayan
+""" .
+
+<http://nitp.ac.in/AcademicProgrammesBranch/CivilEngineering/> a dct:subject;
+  dbo:Type """Under Graduate Programmes
+""";
+  dbo:duration """4 Years
+""";
+  dbr:Category:Academic_degrees """Bachelor of Technology
+""" .
+
+<http://nitp.ac.in/department/CivilEngineering/> a dbo:department;
+  foaf:mbox "civil@nitp.ac.in";
+  foaf:phone """126
+"""^^xsd:int .
+
+<http://nitp.ac.in/placementOfficers/DrShaileshMPandey/> a foaf:Person;
+  dbo:title """Training Placement Officer, Training & Placement Cell
+Assistant Professor, Department of Mechanical Engineering
+National Institute Of Technology, Patna-800005 , Bihar
+""";
+  foaf:mbox "smp.me@nitp.ac.in";
+  foaf:phone "8750111166"^^xsd:int .
+
+<http://nitp.ac.in/BOG/Member/> a dbo:board;
+  dbo:title """Former Member, Railway Engineering Board,
+New Delhi.
+""", """JS and Financial Advisor or his/her nominee
+Department of Higher Education
+Ministry of Human Resources Development
+C-Wing, Shastri Bhawan,
+New Delhi-110 001
+""",
+    """Joint Secretary (Techincal) or his/her nominee
+Department of Higher Education
+Ministry of Human Resources Development
+C-Wing, Shastri Bhawan,
+New Delhi-110 001
+""",
+    """Managing Director, Kalyanpur Cement Ltd.
+Maurya Center, 1, Frazer Road,
+PB No. 89, Patna-800001 (Bihar).
+""";
+  foaf:Person "NIL", "Sri Aditya Prakash Mishra", "Sri Shailendra P. Sinha" .
+
+<http://nitp.ac.in/ServiceUnit/Examinations/> a dbo:committee;
+  dbo:title """Prof. In-charge
+""";
+  foaf:Person """Dr. Abdur Rahman Quaff
+""" .
+
+<http://nitp.ac.in/AcademicProgrammesBranch/ComputerScinceEngineering/> a dct:subject;
+  dbo:Type """Under Graduate Programmes
+""";
+  dbo:duration """4 Years
+""";
+  dbr:Category:Academic_degrees """Bachelor of Technology
+""" .
+
+<http://nitp.ac.in/department/ComputerScienceEngineering/> a dbo:department;
+  foaf:mbox "cse@nitp.ac.in";
+  foaf:phone """184
+"""^^xsd:int .
+
+<http://nitp.ac.in/NA> a foaf:Person .
+
+<http://nitp.ac.in/BWC/Member> a dbo:board;
+  dbo:title """Director (Operation)
+South Bihar Power Distribution Co. Ltd
+Patna
+""",
+    """Executive Engineer
+Construction Divison-1
+BCD, Govt. of Bihar
+""", """Professor
+Department of Civil Engineering
+IIT BHU
+""";
+  foaf:Person """Dr. Rajesh Kumar
+""", """Sri Ashok Kumar
+""", """Sri Pawan Kumar
+""" .
+
+<http://nitp.ac.in/ServiceUnit/TrainingandPlacement/> a dbo:committee;
+  dbo:title """Prof. In-charge
+""";
+  foaf:Person """Dr. Samrat Mukherjee
+""" .
+
+<http://nitp.ac.in/AcademicProgrammesBranch/ElectricalEngineering/> a dct:subject;
+  dbo:Type """Under Graduate Programmes
+""";
+  dbo:duration """4 Years
+""";
+  dbr:Category:Academic_degrees """Bachelor of Technology
+""" .
+
+<http://nitp.ac.in/department/ElectricalEngineering/> a dbo:department;
+  foaf:mbox "electrical@nitp.ac.in";
+  foaf:phone """153
+"""^^xsd:int .
+
+<http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/> a dbo:University;
+  dbo:board <http://nitp.ac.in/BOG/Member/>, <http://nitp.ac.in/BWC/Member>, <http://nitp.ac.in/FC/ExOfficioMemberSecretary>,
+    <http://nitp.ac.in/FC/Member>, <http://nitp.ac.in/IDC/Member>, <http://nitp.ac.in/NA>,
+    <http://nitp.ac.in/Senate/Member>;
+  dbo:committee <http://nitp.ac.in/ServiceUnit/HMC/>, <http://nitp.ac.in/ServiceUnit/Procurement/>,
+    <http://nitp.ac.in/ServiceUnit/TEQIPIII/>;
+  dbo:company <http://nitp.ac.in/recruiters/Afcons/>, <http://nitp.ac.in/recruiters/AsiaMotorsWorksAMW/>,
+    <http://nitp.ac.in/recruiters/BelzabarSoftwareDesignIndiaPvtLtd/>;
+  dbo:department <http://nitp.ac.in/department/ElectronicsCommunicationEngineering/>,
+    <http://nitp.ac.in/department/Mathematics/>, <http://nitp.ac.in/department/MechanicalEngineering/>;
+  dbr:Category:initiative "https://webcast.nitp.ac.in/Panopto/Pages/Viewer.aspx?id=08d6a31c-c935-4f0d-a53a-689bcccdb14e",
+    "https://webcast.nitp.ac.in/Panopto/Pages/Viewer.aspx?id=3859882e-ae4e-482b-92c1-768cf2211735",
+    "https://webcast.nitp.ac.in/Panopto/Pages/Viewer.aspx?id=91529777-74db-4f1b-820c-7504a5c904c0";
+  dbo:board <http://nitp.ac.in/Senate/Member>;
+  a dbo:University;
+  dbo:board <http://nitp.ac.in/BOG/Member/>, <http://nitp.ac.in/BWC/MemberSecretary>,
+    <http://nitp.ac.in/IDC/MemberSecretary>, <http://nitp.ac.in/NA>;
+  dbo:committee <http://nitp.ac.in/ServiceUnit/ComputerCenter/>;
+  dct:subject <http://nitp.ac.in/AcademicProgrammesBranch/ElectronicsCommunicationEngineering/>;
+  dbo:department <http://nitp.ac.in/department/Chemistry/>;
+  dct:subject <http://nitp.ac.in/AcademicProgrammesBranch/InformationTechnology/>;
+  dbo:company <http://nitp.ac.in/recruiters/BhartiInfratelLtd/>;
+  dbr:Category:initiative "https://webcast.nitp.ac.in/Panopto/Pages/Viewer.aspx?id=3848b244-8218-47a0-a914-8b9d3ee219ec";
+  dct:subject <http://nitp.ac.in/AcademicProgrammesBranch/MechanicalEngineering/>, <http://nitp.ac.in/AcademicProgrammesBranch/WaterResourcesEngineering/>;
+  foaf:Person <http://nitp.ac.in/NA> .
+
+<http://nitp.ac.in/ServiceUnit/HMC/> a dbo:committee;
+  dbo:title """Chairman
+""";
+  foaf:Person """Dr. Samrat Mukherjee
+""" .
+
+<http://nitp.ac.in/AcademicProgrammesBranch/ElectronicsCommunicationEngineering/>
+  a dct:subject;
+  dbo:Type """Under Graduate Programmes
+""";
+  dbo:duration """4 Years
+""";
+  dbr:Category:Academic_degrees """Bachelor of Technology
+""" .
+
+<http://nitp.ac.in/department/ElectronicsCommunicationEngineering/> a dbo:department;
+  foaf:mbox "ece@nitp.ac.in";
+  foaf:phone """177
+"""^^xsd:int .
+
+<http://nitp.ac.in/IDC/Member> a dbo:board;
+  dbo:department """Boy Student Representative
+""", """Girl Student Representative
+""";
+  dbo:title """students representative nominated by Dean (Student Welfare) 1
+""", """students representative nominated by Dean (Student Welfare)2
+""";
+  foaf:Person """Devat Singh, Roll no- 1501073
+""", """Madhulika Pandey, Roll no-1507001
+""" .
+
+<http://nitp.ac.in/FC/ExOfficioMemberSecretary> a dbo:board;
+  dbo:title """Registrar, NIT Patna
+""";
+  foaf:Person """Dr. Asit Narayan
+""" .
+
+<http://nitp.ac.in/Senate/Member> a dbo:board;
+  dbo:title """Professor, Civil Engineering Dept.
+""";
+  foaf:Person """Dr. Ajay Kumar Sinha
+""", """Dr. S. S. Mishra
+""", """Dr. Sanjeev Sinha
+""" .
+
+<http://nitp.ac.in/ServiceUnit/Procurement/> a dbo:committee;
+  dbo:title """Professor Incharge
+""";
+  foaf:Person """Prof. Prakash Chandra
+""" .
+
+<http://nitp.ac.in/AcademicProgrammesBranch/InformationTechnology/> a dct:subject;
+  dbo:Type """Under Graduate Programmes
+""";
+  dbo:duration """4 Years
+""";
+  dbr:Category:Academic_degrees """Bachelor of Technology
+""" .
+
+<http://nitp.ac.in/department/MechanicalEngineering/> a dbo:department;
+  foaf:mbox "officemech@nitp.ac.in";
+  foaf:phone """440
+"""^^xsd:int .
+
+<http://nitp.ac.in/BOG/Member/> a dbo:board;
+  dbo:title """Associate Professor & Head
+Department of Physics, S.N. Sinha College,
+Jehanabad.
+""",
+    """Former Head,
+P.G. Department of Biotechnology
+A.N. College, Patna.
+""", """Professor, Mechanical Engg. Dept.,
+NIT Patna
+""";
+  foaf:Person "Dr. Chandrawati Jee", "Dr. Narendra Kumar Singh", "Prof. S.K. Verma" .
+
+<http://nitp.ac.in/BWC/Member> a dbo:board;
+  dbo:title """Dean (Planning & Development), NIT Patna.
+""";
+  foaf:Person """Prof. Fulena Rajak
+""" .
+
+<http://nitp.ac.in/NA> a dbo:board, foaf:Person .
+
+<http://nitp.ac.in/ServiceUnit/TEQIPIII/> a dbo:committee;
+  dbo:title """Coordinator
+""";
+  foaf:Person """Dr. M. P. Singh
+""" .
+
+<http://nitp.ac.in/AcademicProgrammesBranch/MechanicalEngineering/> a dct:subject;
+  dbo:Type """Under Graduate Programmes
+""";
+  dbo:duration """4 Years
+""";
+  dbr:Category:Academic_degrees """Bachelor of Technology
+""" .
+
+<http://nitp.ac.in/department/Mathematics/> a dbo:department;
+  foaf:mbox "mathematics@nitp.ac.in";
+  foaf:phone """117
+"""^^xsd:int .
+
+<http://nitp.ac.in/BWC/MemberSecretary> a dbo:board;
+  dbo:title """Registrar, NIT Patna
+""";
+  foaf:Person """Dr. Asit Narayan
+""" .
+
+<http://nitp.ac.in/IDC/MemberSecretary> a dbo:board;
+  dbo:department """Registrar,NIT Patna
+""";
+  dbo:title """The Registrar
+""";
+  foaf:Person """Dr. Asit Narayan
+""" .
+
+<http://nitp.ac.in/ServiceUnit/ComputerCenter/> a dbo:committee;
+  dbo:title """Prof. In-charge
+""";
+  foaf:Person """Dr. M. P. Singh
+""" .
+
+<http://nitp.ac.in/AcademicProgrammesBranch/WaterResourcesEngineering/> a dct:subject;
+  dbo:Type """Post Graduate Programmes
+""";
+  dbo:duration """2 Years
+""";
+  dbr:Category:Academic_degrees """Master of Technology (Civil Engineering)
+""" .
+
+<http://nitp.ac.in/department/Chemistry/> a dbo:department;
+  foaf:mbox "chemistry@nitp.ac.in";
+  foaf:phone "NIL"^^xsd:int .
+
+<http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/> a dbo:University;
+  dbo:board <http://nitp.ac.in/BOG/Member/>, <http://nitp.ac.in/NA>, <http://nitp.ac.in/Senate/Member>;
+  dbo:committee <http://nitp.ac.in/ServiceUnit/CentralLibrary/>, <http://nitp.ac.in/ServiceUnit/ITServices/>;
+  a dbo:University;
+  dbo:board <http://nitp.ac.in/BOG/SecretarytoBOGNITPatna/>, <http://nitp.ac.in/NA>,
+    <http://nitp.ac.in/Senate/Member>;
+  dbo:committee <http://nitp.ac.in/ServiceUnit/WebServicesandMIS/>;
+  dbo:company <http://nitp.ac.in/recruiters/BPCL/>, <http://nitp.ac.in/recruiters/BhushanSteelLtd/>;
+  dbo:department <http://nitp.ac.in/NA>;
+  dbo:company <http://nitp.ac.in/recruiters/BSEB/>;
+  dbo:department <http://nitp.ac.in/department/Physics/>, <http://nitp.ac.in/department/SocialSciencesHumanities/>;
+  dct:subject <http://nitp.ac.in/AcademicProgrammesBranch/EnvironmentalEngineering/>,
+    <http://nitp.ac.in/AcademicProgrammesBranch/StructuralEngineering/>, <http://nitp.ac.in/AcademicProgrammesBranch/TransportationEngineering/>;
+  foaf:Person <http://nitp.ac.in/NA> .
+
+<http://nitp.ac.in/Senate/Member> a dbo:board;
+  dbo:title """Professor, Civil Engineering Dept.
+""", """Mathematics Dept.
+""", """Professor, Electrical Engineering Dept
+""";
+  foaf:Person """Dr. Ramesh Kumar
+""", """Dr. Sawal Kishore Singh
+""", """Dr. Vivekanand Singh
+""" .
+
+<http://nitp.ac.in/ServiceUnit/CentralLibrary/> a dbo:committee;
+  dbo:title """Prof. In-charge
+""";
+  foaf:Person """Dr. Anshuman Singh
+""" .
+
+<http://nitp.ac.in/AcademicProgrammesBranch/TransportationEngineering/> a dct:subject;
+  dbo:Type """Post Graduate Programmes
+""";
+  dbo:duration """2 Years
+""";
+  dbr:Category:Academic_degrees """Master of Technology (Civil Engineering)
+""" .
+
+<http://nitp.ac.in/department/Physics/> a dbo:department;
+  foaf:mbox "physics@nitp.ac.in";
+  foaf:phone """163
+"""^^xsd:int .
+
+<http://nitp.ac.in/NA> a dbo:board, dbo:department, foaf:Person, dbo:board;
+  foaf:Person "NA";
+  a dbo:board, dbo:board, dbo:board .
+
+<http://nitp.ac.in/BOG/Member/> a dbo:board;
+  dbo:title """Director IIT Patna or his nominee not below the rank of professor
+""";
+  foaf:Person "NIL" .
+
+<http://nitp.ac.in/ServiceUnit/ITServices/> a dbo:committee;
+  dbo:title """Prof. In-charge
+""";
+  foaf:Person """Dr. Prabhat Kumar
+""" .
+
+<http://nitp.ac.in/AcademicProgrammesBranch/StructuralEngineering/> a dct:subject;
+  dbo:Type """Post Graduate Programmes
+""";
+  dbo:duration """2 Years
+""";
+  dbr:Category:Academic_degrees """Master of Technology (Civil Engineering)
+""" .
+
+<http://nitp.ac.in/department/SocialSciencesHumanities/> a dbo:department;
+  foaf:mbox "ssh@nitp.ac.in";
+  foaf:phone """118
+"""^^xsd:int .
+
+<http://nitp.ac.in/BOG/SecretarytoBOGNITPatna/> a dbo:board;
+  dbo:title """Registrar, NIT Patna
+""";
+  foaf:Person "Dr. Asit Narayan" .
+
+<http://nitp.ac.in/ServiceUnit/WebServicesandMIS/> a dbo:committee;
+  dbo:title """Prof. In-charge
+""";
+  foaf:Person """Dr. Akshay Deepak
+""" .
+
+<http://nitp.ac.in/AcademicProgrammesBranch/EnvironmentalEngineering/> a dct:subject;
+  dbo:Type """Post Graduate Programmes
+""";
+  dbo:duration """2 Years
+""";
+  dbr:Category:Academic_degrees """Master of Technology (Civil Engineering)
+""" .
+
+<http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/> a dbo:University;
+  dbo:board <http://nitp.ac.in/NA>, <http://nitp.ac.in/Senate/Member>;
+  dbo:committee <http://nitp.ac.in/ServiceUnit/FinanceAccounts/>, <http://nitp.ac.in/ServiceUnit/RD/>;
+  dbo:company <http://nitp.ac.in/recruiters/CCCL/>, <http://nitp.ac.in/recruiters/Capgemini/>;
+  dbo:department <http://nitp.ac.in/NA>;
+  dct:subject <http://nitp.ac.in/AcademicProgrammesBranch/ControlSystemEngineering/>,
+    <http://nitp.ac.in/AcademicProgrammesBranch/GeotechnicalEngineering/>;
+  foaf:Person <http://nitp.ac.in/NA> .
+
+<http://nitp.ac.in/Senate/Member> a dbo:board;
+  dbo:title """Professor, Mechanical Engineering Dept.
+""";
+  foaf:Person """Dr. Om Prakash
+""", """Dr. S. K. Verma
+""" .
+
+<http://nitp.ac.in/ServiceUnit/FinanceAccounts/> a dbo:committee;
+  dbo:title """Deputy Registrar
+""";
+  foaf:Person """Shri Mani Shankar Singh
+""" .
+
+<http://nitp.ac.in/AcademicProgrammesBranch/GeotechnicalEngineering/> a dct:subject;
+  dbo:Type """Post Graduate Programmes
+""";
+  dbo:duration """2 Years
+""";
+  dbr:Category:Academic_degrees """Master of Technology (Civil Engineering)
+""" .
+
+<http://nitp.ac.in/NA> a dbo:board, dbo:department, dbo:board, dbo:board, dbo:board,
+    foaf:Person;
+  foaf:Person "NA" .
+
+<http://nitp.ac.in/ServiceUnit/RD/> a dbo:committee;
+  dbo:title """Deputy Registrar
+""";
+  foaf:Person """Sri Sunil Kumar Dwivedi
+""" .
+
+<http://nitp.ac.in/AcademicProgrammesBranch/ControlSystemEngineering/> a dct:subject;
+  dbo:Type """Post Graduate Programmes
+""";
+  dbo:duration """2 Years
+""";
+  dbr:Category:Academic_degrees """Master of Technology (Electrical Engineering)
+""" .
+
+<http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/> a dbo:University;
+  dbo:board <http://nitp.ac.in/NA>, <http://nitp.ac.in/Senate/Member>;
+  a dbo:University;
+  dbo:board <http://nitp.ac.in/NA>, <http://nitp.ac.in/Senate/Member>;
+  dbo:committee <http://nitp.ac.in/ServiceUnit/EMU/>, <http://nitp.ac.in/ServiceUnit/Examination/>;
+  dbo:company <http://nitp.ac.in/recruiters/CivilEngineeringTestingCoPvtLtd/>;
+  dbo:department <http://nitp.ac.in/NA>;
+  dbo:company <http://nitp.ac.in/recruiters/ComproTechnology/>;
+  dct:subject <http://nitp.ac.in/AcademicProgrammesBranch/PowerSystemEngineering/>,
+    <http://nitp.ac.in/AcademicProgrammesBranch/ThermalEngineering/>;
+  foaf:Person <http://nitp.ac.in/NA> .
+
+<http://nitp.ac.in/Senate/Member> a dbo:board;
+  dbo:title """Professor, Physics Dept.
+""";
+  a dbo:board;
+  foaf:Person """Dr. N. R. Lall
+""";
+  dbo:title """Professor, Civil Engineering Dept.
+""";
+  foaf:Person """Dr. Ramakar Jha
+""" .
+
+<http://nitp.ac.in/ServiceUnit/EMU/> a dbo:committee;
+  dbo:title """Prof. In-charge
+""";
+  foaf:Person """Dr. R. K. Mandal
+""" .
+
+<http://nitp.ac.in/AcademicProgrammesBranch/PowerSystemEngineering/> a dct:subject;
+  dbo:Type """Post Graduate Programmes
+""";
+  dbo:duration """2 Years
+""";
+  dbr:Category:Academic_degrees """Master of Technology (Electrical Engineering)
+""" .
+
+<http://nitp.ac.in/NA> a dbo:board, dbo:department, foaf:Person;
+  foaf:Person "NA" .
+
+<http://nitp.ac.in/ServiceUnit/Examination/> a dbo:committee;
+  dbo:title """Deputy Registrar
+""";
+  foaf:Person """Mrs. Bobby
+""" .
+
+<http://nitp.ac.in/AcademicProgrammesBranch/ThermalEngineering/> a dct:subject;
+  dbo:Type """Post Graduate Programmes
+""";
+  dbo:duration """2 Years
+""";
+  dbr:Category:Academic_degrees """Master of Technology (Mechanical Engineering)
+""" .
+
+<http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/> a dbo:University;
+  dbo:board <http://nitp.ac.in/NA>, <http://nitp.ac.in/Senate/Member>;
+  dbo:committee <http://nitp.ac.in/ServiceUnit/ITService/>;
+  dbo:company <http://nitp.ac.in/recruiters/ConsultingEngineeringServicesIndiaLtd/>;
+  dbo:department <http://nitp.ac.in/NA>;
+  dct:subject <http://nitp.ac.in/AcademicProgrammesBranch/ProductionEngineering/>;
+  foaf:Person <http://nitp.ac.in/NA> .
+
+<http://nitp.ac.in/NA> a dbo:board;
+  foaf:Person "NA" .
+
+<http://nitp.ac.in/Senate/Member> a dbo:board;
+  dbo:title """Professor, Mechanical Engineering Dept.
+""";
+  foaf:Person """Dr. Prakash Chandra
+""" .
+
+<http://nitp.ac.in/ServiceUnit/ITService/> a dbo:committee;
+  dbo:title """Scientific & Technical Officer
+""";
+  foaf:Person """Dr. Santosh Kumar
+""" .
+
+<http://nitp.ac.in/AcademicProgrammesBranch/ProductionEngineering/> a dct:subject;
+  dbo:Type """Post Graduate Programmes
+""";
+  dbo:duration """2 Years
+""";
+  dbr:Category:Academic_degrees """Master of Technology (Mechanical Engineering)
+""" .
+
+<http://nitp.ac.in/NA> a dbo:department, foaf:Person .
+
+<http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/> a dbo:University;
+  dbo:board <http://nitp.ac.in/NA>, <http://nitp.ac.in/Senate/Member>;
+  dbo:committee <http://nitp.ac.in/ServiceUnit/AcademicsExaminationScholarship/>;
+  dbo:company <http://nitp.ac.in/recruiters/ContinentalIndia/>;
+  dbo:department <http://nitp.ac.in/NA>;
+  dct:subject <http://nitp.ac.in/AcademicProgrammesBranch/DesignEngineering/>;
+  foaf:Person <http://nitp.ac.in/NA> .
+
+<http://nitp.ac.in/NA> a dbo:board;
+  foaf:Person "NA" .
+
+<http://nitp.ac.in/Senate/Member> a dbo:board;
+  dbo:title """Professor, Mechanical Engineering Dept.
+""";
+  foaf:Person """Dr. A. N. Sinha
+""" .
+
+<http://nitp.ac.in/ServiceUnit/AcademicsExaminationScholarship/> a dbo:committee;
+  dbo:title """Assistant Registrar
+""";
+  foaf:Person """Shri Shardul Vikram
+""" .
+
+<http://nitp.ac.in/AcademicProgrammesBranch/DesignEngineering/> a dct:subject;
+  dbo:Type """Post Graduate Programmes
+""";
+  dbo:duration """2 Years
+""";
+  dbr:Category:Academic_degrees """Master of Technology (Mechanical Engineering)
+""" .
+
+<http://nitp.ac.in/NA> a dbo:department, foaf:Person .
+
+<http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/> a dbo:University;
+  dbo:board <http://nitp.ac.in/NA>, <http://nitp.ac.in/Senate/ExternalMember>;
+  dbo:committee <http://nitp.ac.in/ServiceUnit/Establishment/>;
+  dbo:company <http://nitp.ac.in/recruiters/Denso/>;
+  dbo:department <http://nitp.ac.in/NA>;
+  dct:subject <http://nitp.ac.in/AcademicProgrammesBranch/AutomobileEngineering/>;
+  foaf:Person <http://nitp.ac.in/NA> .
+
+<http://nitp.ac.in/NA> a dbo:board;
+  foaf:Person "NA" .
+
+<http://nitp.ac.in/Senate/ExternalMember> a dbo:board;
+  dbo:title """Former Director, IIT BHU
+""";
+  foaf:Person """Prof. K. P. Singh
+""" .
+
+<http://nitp.ac.in/ServiceUnit/Establishment/> a dbo:committee;
+  dbo:title """Assistant Registrar
+""";
+  foaf:Person """Shri Rajesh Kumar
+""" .
+
+<http://nitp.ac.in/AcademicProgrammesBranch/AutomobileEngineering/> a dct:subject;
+  dbo:duration """2 Years
+""";
+  dbo:Type """Post Graduate Programmes
+""";
+  dbr:Category:Academic_degrees """Master of Technology (Mechanical Engineering)
+""" .
+
+<http://nitp.ac.in/NA> a dbo:department, foaf:Person .
+
+<http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/> a dbo:University;
+  dbo:board <http://nitp.ac.in/NA>, <http://nitp.ac.in/Senate/ExternalMember>;
+  dbo:committee <http://nitp.ac.in/ServiceUnit/SecurityHousekeeping/>;
+  dbo:department <http://nitp.ac.in/NA>;
+  dct:subject <http://nitp.ac.in/AcademicProgrammesBranch/RenewableEnergyTechnology/>;
+  dbo:company <http://nitp.ac.in/recruiters/EndeavorCareersPvtLtd/>;
+  foaf:Person <http://nitp.ac.in/NA> .
+
+<http://nitp.ac.in/NA> a dbo:board, dbo:board, dbo:board, dbo:board;
+  foaf:Person "NA" .
+
+<http://nitp.ac.in/Senate/ExternalMember> a dbo:board;
+  dbo:title """Vice-Chancellor, LNMU, Darbhanga
+""";
+  foaf:Person """Prof. S. K. Singh
+""" .
+
+<http://nitp.ac.in/ServiceUnit/SecurityHousekeeping/> a dbo:committee;
+  dbo:title """Assistant Registrar
+""";
+  foaf:Person """Sri J P Sharma
+""" .
+
+<http://nitp.ac.in/AcademicProgrammesBranch/RenewableEnergyTechnology/> a dct:subject;
+  dbo:duration """2 Years
+""";
+  dbo:Type """Post Graduate Programmes
+""";
+  dbr:Category:Academic_degrees """Master of Technology (Mechanical Engineering)
+""" .
+
+<http://nitp.ac.in/NA> a dbo:department, foaf:Person .
+
+<http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/> a dbo:University;
+  dbo:board <http://nitp.ac.in/NA>, <http://nitp.ac.in/Senate/ExternalMember>;
+  dbo:committee <http://nitp.ac.in/ServiceUnit/FinanceAccounts/>;
+  dbo:department <http://nitp.ac.in/NA>;
+  dct:subject <http://nitp.ac.in/AcademicProgrammesBranch/InformationTechnology/>;
+  dbo:company <http://nitp.ac.in/recruiters/EngineersIndiaLtdEIL/>;
+  foaf:Person <http://nitp.ac.in/NA> .
+
+<http://nitp.ac.in/NA> a dbo:board, dbo:board, dbo:board, dbo:board;
+  foaf:Person "NA" .
+
+<http://nitp.ac.in/Senate/ExternalMember> a dbo:board;
+  dbo:title """Pro-Vice Chancellor,
+Guru-Govind Singh Indraprastha University,
+New Delhi.
+""";
+  foaf:Person """Prof. Pushplata Tripathi
+""" .
+
+<http://nitp.ac.in/ServiceUnit/FinanceAccounts/> a dbo:committee;
+  dbo:title """Assistant Registrar
+""";
+  foaf:Person """Sri Sunny Choudhary
+""" .
+
+<http://nitp.ac.in/AcademicProgrammesBranch/InformationTechnology/> a dct:subject;
+  dbo:duration """2 Years
+""";
+  dbo:Type """Post Graduate Programmes
+""";
+  dbr:Category:Academic_degrees """Master of Technology (Computer Science & Engineering)
+""" .
+
+<http://nitp.ac.in/NA> a dbo:department, foaf:Person .
+
+<http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/> a dbo:University;
+  dbo:board <http://nitp.ac.in/NA>, <http://nitp.ac.in/Senate/ExOfficioMemberSecretary>;
+  dbo:committee <http://nitp.ac.in/ServiceUnit/Academics/>;
+  dbo:department <http://nitp.ac.in/NA>;
+  dct:subject <http://nitp.ac.in/AcademicProgrammesBranch/ComputerScienceEngineering/>;
+  dbo:company <http://nitp.ac.in/recruiters/ERAGroup/>;
+  foaf:Person <http://nitp.ac.in/NA> .
+
+<http://nitp.ac.in/NA> a dbo:board, dbo:board, dbo:board, dbo:board;
+  foaf:Person "NA" .
+
+<http://nitp.ac.in/Senate/ExOfficioMemberSecretary> a dbo:board;
+  dbo:title """Registrar, NIT Patna
+""";
+  foaf:Person """Dr. Asit Narayan
+""" .
+
+<http://nitp.ac.in/ServiceUnit/Academics/> a dbo:committee;
+  dbo:title """Assistant Registrar
+""";
+  foaf:Person """Sri Abhay Kumar
+""" .
+
+<http://nitp.ac.in/AcademicProgrammesBranch/ComputerScienceEngineering/> a dct:subject;
+  dbo:duration """2 Years
+""";
+  dbo:Type """Post Graduate Programmes
+""";
+  dbr:Category:Academic_degrees """Master of Technology (Computer Science & Engineering)
+""" .
+
+<http://nitp.ac.in/NA> a dbo:department, foaf:Person .
+
+<http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/> a dbo:University;
+  dbo:board <http://nitp.ac.in/NA>;
+  dbo:committee <http://nitp.ac.in/ServiceUnit/StudentActivityandSports/>;
+  dbo:department <http://nitp.ac.in/NA>;
+  dct:subject <http://nitp.ac.in/AcademicProgrammesBranch/CommunicationSystems/>;
+  dbo:company <http://nitp.ac.in/recruiters/EricssonIndia/>;
+  foaf:Person <http://nitp.ac.in/NA> .
+
+<http://nitp.ac.in/NA> a dbo:board, dbo:board, dbo:board, dbo:board, dbo:board;
+  foaf:Person "NA" .
+
+<http://nitp.ac.in/ServiceUnit/StudentActivityandSports/> a dbo:committee;
+  dbo:title """Officer In-charge
+""";
+  foaf:Person """Sri Arijit Putatunda
+""" .
+
+<http://nitp.ac.in/AcademicProgrammesBranch/CommunicationSystems/> a dct:subject;
+  dbo:duration """2 Years
+""";
+  dbo:Type """Post Graduate Programmes
+""";
+  dbr:Category:Academic_degrees """Master of Technology (Electronics & Communication Engineering)
+""" .
+
+<http://nitp.ac.in/NA> a dbo:department, foaf:Person .
+
+<http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/> a dbo:University;
+  dbo:board <http://nitp.ac.in/NA>;
+  dbo:committee <http://nitp.ac.in/NA>;
+  dbo:department <http://nitp.ac.in/NA>;
+  dct:subject <http://nitp.ac.in/AcademicProgrammesBranch/VLSISystemDesignandMicroelectronics/>;
+  dbo:company <http://nitp.ac.in/recruiters/FLAREUMSolarTechnologyLtd/>;
+  foaf:Person <http://nitp.ac.in/NA> .
+
+<http://nitp.ac.in/NA> a dbo:board, dbo:board, dbo:board, dbo:board, dbo:board, dbo:committee;
+  foaf:Person "NA" .
+
+<http://nitp.ac.in/AcademicProgrammesBranch/VLSISystemDesignandMicroelectronics/>
+  a dct:subject;
+  dbo:duration """2 Years
+""";
+  dbo:Type """Post Graduate Programmes
+""";
+  dbr:Category:Academic_degrees """Master of Technology (Electronics & Communication Engineering)
+""" .
+
+<http://nitp.ac.in/NA> a dbo:department, foaf:Person .
+
+<http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/> a dbo:University;
+  dbo:board <http://nitp.ac.in/NA>;
+  dbo:committee <http://nitp.ac.in/NA>;
+  dbo:department <http://nitp.ac.in/NA>;
+  dct:subject <http://nitp.ac.in/AcademicProgrammesBranch/UrbanandRegionalPlanning/>;
+  dbo:company <http://nitp.ac.in/recruiters/GammonIndia/>;
+  foaf:Person <http://nitp.ac.in/NA> .
+
+<http://nitp.ac.in/NA> a dbo:board, dbo:board, dbo:board, dbo:board, dbo:board, dbo:committee;
+  foaf:Person "NA" .
+
+<http://nitp.ac.in/AcademicProgrammesBranch/UrbanandRegionalPlanning/> a dct:subject;
+  dbo:duration """2 Years
+""";
+  dbo:Type """Post Graduate Programmes
+""";
+  dbr:Category:Academic_degrees """Master in Urban & Regional Planning(MURP)
+""" .
+
+<http://nitp.ac.in/NA> a dbo:department, foaf:Person .
+
+<http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/> a dbo:University;
+  dbo:board <http://nitp.ac.in/NA>;
+  dbo:committee <http://nitp.ac.in/NA>;
+  dbo:department <http://nitp.ac.in/NA>;
+  dct:subject <http://nitp.ac.in/AcademicProgrammesBranch/ComputationalMathematics/>;
+  dbo:company <http://nitp.ac.in/recruiters/GodrejBoyceMfgCo/>;
+  foaf:Person <http://nitp.ac.in/NA> .
+
+<http://nitp.ac.in/NA> a dbo:board, dbo:board, dbo:board, dbo:board, dbo:board, dbo:committee;
+  foaf:Person "NA" .
+
+<http://nitp.ac.in/AcademicProgrammesBranch/ComputationalMathematics/> a dct:subject;
+  dbo:Type """Post Graduate Programmes
+""";
+  dbo:duration """2 Years
+""";
+  dbr:Category:Academic_degrees """M. Tech (Computational Mathematics)
+""" .
+
+<http://nitp.ac.in/NA> a dbo:department, foaf:Person .
+
+<http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/> a dbo:University;
+  dbo:board <http://nitp.ac.in/NA>;
+  dbo:committee <http://nitp.ac.in/NA>;
+  dbo:department <http://nitp.ac.in/NA>;
+  dct:subject <http://nitp.ac.in/AcademicProgrammesBranch/NanoscienceandTechnology/>;
+  dbo:company <http://nitp.ac.in/recruiters/GroupsoftITServicesPvtLtd/>;
+  foaf:Person <http://nitp.ac.in/NA> .
+
+<http://nitp.ac.in/NA> a dbo:board, dbo:board, dbo:board, dbo:board, dbo:board, dbo:committee;
+  foaf:Person "NA" .
+
+<http://nitp.ac.in/AcademicProgrammesBranch/NanoscienceandTechnology/> a dct:subject;
+  dbo:duration """2 Years
+""";
+  dbo:Type """Post Graduate Programmes
+""";
+  dbr:Category:Academic_degrees """M. Tech (Nanoscience and Technology)
+""" .
+
+<http://nitp.ac.in/NA> a dbo:department, foaf:Person .
+
+<http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/> a dbo:University;
+  dbo:board <http://nitp.ac.in/NA>;
+  dbo:committee <http://nitp.ac.in/NA>;
+  dbo:department <http://nitp.ac.in/NA>;
+  dct:subject <http://nitp.ac.in/AcademicProgrammesBranch/IntegratedMScinChemistry/>;
+  dbo:company <http://nitp.ac.in/recruiters/Havells/>;
+  foaf:Person <http://nitp.ac.in/NA> .
+
+<http://nitp.ac.in/NA> a dbo:board, dbo:board, dbo:board, dbo:board, dbo:board, dbo:committee;
+  foaf:Person "NA" .
+
+<http://nitp.ac.in/AcademicProgrammesBranch/IntegratedMScinChemistry/> a dct:subject;
+  dbo:duration """5 Years
+""";
+  dbo:Type """Five Years Integrated Programs
+""";
+  dbr:Category:Academic_degrees """M. Sc.(Chemistry)
+""" .
+
+<http://nitp.ac.in/NA> a dbo:department, foaf:Person .
+
+<http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/> a dbo:University;
+  dbo:board <http://nitp.ac.in/NA>;
+  dbo:committee <http://nitp.ac.in/NA>;
+  dbo:department <http://nitp.ac.in/NA>;
+  dct:subject <http://nitp.ac.in/AcademicProgrammesBranch/IntegratedMScinMathematics/>;
+  dbo:company <http://nitp.ac.in/recruiters/HCL/>;
+  foaf:Person <http://nitp.ac.in/NA> .
+
+<http://nitp.ac.in/NA> a dbo:board, dbo:board, dbo:board, dbo:board, dbo:board, dbo:committee;
+  foaf:Person "NA" .
+
+<http://nitp.ac.in/AcademicProgrammesBranch/IntegratedMScinMathematics/> a dct:subject;
+  dbo:duration """5 Years
+""";
+  dbo:Type """Five Years Integrated Programs
+""";
+  dbr:Category:Academic_degrees """M. Sc.(Mathematics)
+""" .
+
+<http://nitp.ac.in/NA> a dbo:department, foaf:Person .
+
+<http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/> a dbo:University;
+  dbo:board <http://nitp.ac.in/NA>;
+  dbo:committee <http://nitp.ac.in/NA>;
+  dbo:company <http://nitp.ac.in/recruiters/HDFCLtd/>;
+  dbo:department <http://nitp.ac.in/NA>;
+  dct:subject <http://nitp.ac.in/AcademicProgrammesBranch/IntegratedMScinPhysics/>;
+  foaf:Person <http://nitp.ac.in/NA> .
+
+<http://nitp.ac.in/NA> a dbo:board, dbo:board, dbo:board, dbo:board, dbo:board, dbo:committee;
+  foaf:Person "NA" .
+
+<http://nitp.ac.in/AcademicProgrammesBranch/IntegratedMScinPhysics/> a dct:subject;
+  dbo:duration """5 Years
+""";
+  dbo:Type """Five Years Integrated Programs
+""";
+  dbr:Category:Academic_degrees """M. Sc.(Physics)
+""" .
+
+<http://nitp.ac.in/NA> a dbo:department, foaf:Person .
+
+<http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/> a dbo:University;
+  dbo:board <http://nitp.ac.in/NA>;
+  dbo:committee <http://nitp.ac.in/NA>;
+  dbo:department <http://nitp.ac.in/NA>;
+  dct:subject <http://nitp.ac.in/NA>;
+  dbo:company <http://nitp.ac.in/recruiters/HellaElectronicsIndiaLtd/>;
+  foaf:Person <http://nitp.ac.in/NA> .
+
+<http://nitp.ac.in/NA> a dbo:board, dbo:board, dbo:board, dbo:board, dbo:board, dbo:committee,
+    dct:subject, dbo:department, foaf:Person;
+  foaf:Person "NA" .
+
+<http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/> a dbo:University;
+  dbo:board <http://nitp.ac.in/NA>;
+  dbo:committee <http://nitp.ac.in/NA>;
+  dbo:department <http://nitp.ac.in/NA>;
+  dct:subject <http://nitp.ac.in/NA>;
+  dbo:company <http://nitp.ac.in/recruiters/HeroMotocorpLtd/>;
+  foaf:Person <http://nitp.ac.in/NA> .
+
+<http://nitp.ac.in/NA> a dbo:board, dbo:board, dbo:board, dbo:board, dbo:board, dbo:committee,
+    dct:subject, dbo:department, foaf:Person;
+  foaf:Person "NA" .
+
+<http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/> a dbo:University;
+  dbo:board <http://nitp.ac.in/NA>;
+  dbo:committee <http://nitp.ac.in/NA>;
+  dbo:department <http://nitp.ac.in/NA>;
+  dct:subject <http://nitp.ac.in/NA>;
+  dbo:company <http://nitp.ac.in/recruiters/Hindalco/>;
+  foaf:Person <http://nitp.ac.in/NA> .
+
+<http://nitp.ac.in/NA> a dbo:board, dbo:board, dbo:board, dbo:board, dbo:board, dbo:committee,
+    dct:subject, dbo:department, foaf:Person;
+  foaf:Person "NA" .
+
+<http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/> a dbo:University;
+  dbo:board <http://nitp.ac.in/NA>;
+  dbo:committee <http://nitp.ac.in/NA>;
+  dbo:department <http://nitp.ac.in/NA>;
+  dct:subject <http://nitp.ac.in/NA>;
+  dbo:company <http://nitp.ac.in/recruiters/HPCL/>;
+  foaf:Person <http://nitp.ac.in/NA> .
+
+<http://nitp.ac.in/NA> a dbo:board, dbo:board, dbo:board, dbo:board, dbo:board, dbo:committee,
+    dct:subject, dbo:department, foaf:Person;
+  foaf:Person "NA" .
+
+<http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/> a dbo:University;
+  dbo:board <http://nitp.ac.in/NA>;
+  dbo:committee <http://nitp.ac.in/NA>;
+  dbo:department <http://nitp.ac.in/NA>;
+  dct:subject <http://nitp.ac.in/NA>;
+  dbo:company <http://nitp.ac.in/recruiters/HyderabadIndustriesLtd/>;
+  foaf:Person <http://nitp.ac.in/NA> .
+
+<http://nitp.ac.in/NA> a dbo:board, dbo:board, dbo:board, dbo:board, dbo:board, dbo:committee,
+    dct:subject, dbo:department, foaf:Person;
+  foaf:Person "NA" .
+
+<http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/> a dbo:University;
+  dbo:board <http://nitp.ac.in/NA>;
+  dbo:committee <http://nitp.ac.in/NA>;
+  dbo:department <http://nitp.ac.in/NA>;
+  dct:subject <http://nitp.ac.in/NA>;
+  dbo:company <http://nitp.ac.in/recruiters/IBMIndiaPvtLtd/>;
+  foaf:Person <http://nitp.ac.in/NA> .
+
+<http://nitp.ac.in/NA> a dbo:board, dbo:board, dbo:board, dbo:board, dbo:board, dbo:committee,
+    dct:subject, dbo:department, foaf:Person;
+  foaf:Person "NA" .
+
+<http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/> a dbo:University;
+  dbo:board <http://nitp.ac.in/NA>;
+  dbo:committee <http://nitp.ac.in/NA>;
+  dbo:department <http://nitp.ac.in/NA>;
+  dct:subject <http://nitp.ac.in/NA>;
+  dbo:company <http://nitp.ac.in/recruiters/ILFS/>;
+  foaf:Person <http://nitp.ac.in/NA> .
+
+<http://nitp.ac.in/NA> a dbo:board, dbo:board, dbo:board, dbo:board, dbo:board, dbo:committee,
+    dct:subject, dbo:department, foaf:Person;
+  foaf:Person "NA" .
+
+<http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/> a dbo:University;
+  dbo:board <http://nitp.ac.in/NA>;
+  dbo:committee <http://nitp.ac.in/NA>;
+  dbo:department <http://nitp.ac.in/NA>;
+  dct:subject <http://nitp.ac.in/NA>;
+  dbo:company <http://nitp.ac.in/recruiters/IndianAirForce/>;
+  foaf:Person <http://nitp.ac.in/NA> .
+
+<http://nitp.ac.in/NA> a dbo:board, dbo:board, dbo:board, dbo:board, dbo:board, dbo:committee,
+    dct:subject, dbo:department, foaf:Person;
+  foaf:Person "NA" .
+
+<http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/> a dbo:University;
+  dbo:board <http://nitp.ac.in/NA>;
+  dbo:committee <http://nitp.ac.in/NA>;
+  dbo:department <http://nitp.ac.in/NA>;
+  dct:subject <http://nitp.ac.in/NA>;
+  dbo:company <http://nitp.ac.in/recruiters/IndianArmy/>;
+  foaf:Person <http://nitp.ac.in/NA> .
+
+<http://nitp.ac.in/NA> a dbo:board, dbo:board, dbo:board, dbo:board, dbo:board, dbo:committee,
+    dct:subject, dbo:department, foaf:Person;
+  foaf:Person "NA" .
+
+<http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/> a dbo:University;
+  dbo:board <http://nitp.ac.in/NA>;
+  dbo:committee <http://nitp.ac.in/NA>;
+  dbo:department <http://nitp.ac.in/NA>;
+  dct:subject <http://nitp.ac.in/NA>;
+  dbo:company <http://nitp.ac.in/recruiters/IndianNavy/>;
+  foaf:Person <http://nitp.ac.in/NA> .
+
+<http://nitp.ac.in/NA> a dbo:board, dbo:board, dbo:board, dbo:board, dbo:board, dbo:committee,
+    dct:subject, dbo:department, foaf:Person;
+  foaf:Person "NA" .
+
+<http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/> a dbo:University;
+  dbo:board <http://nitp.ac.in/NA>;
+  dbo:committee <http://nitp.ac.in/NA>;
+  dbo:department <http://nitp.ac.in/NA>;
+  dct:subject <http://nitp.ac.in/NA>;
+  dbo:company <http://nitp.ac.in/recruiters/Infosys/>;
+  foaf:Person <http://nitp.ac.in/NA> .
+
+<http://nitp.ac.in/NA> a dbo:board, dbo:board, dbo:board, dbo:board, dbo:board, dbo:committee,
+    dct:subject, dbo:department, foaf:Person;
+  foaf:Person "NA" .
+
+<http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/> a dbo:University;
+  dbo:board <http://nitp.ac.in/NA>;
+  dbo:committee <http://nitp.ac.in/NA>;
+  dbo:department <http://nitp.ac.in/NA>;
+  dct:subject <http://nitp.ac.in/NA>;
+  dbo:company <http://nitp.ac.in/recruiters/IOCL/>;
+  foaf:Person <http://nitp.ac.in/NA> .
+
+<http://nitp.ac.in/NA> a dbo:board, dbo:board, dbo:board, dbo:board, dbo:board, dbo:committee,
+    dct:subject, dbo:department, foaf:Person;
+  foaf:Person "NA" .
+
+<http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/> a dbo:University;
+  dbo:board <http://nitp.ac.in/NA>;
+  dbo:committee <http://nitp.ac.in/NA>;
+  dbo:department <http://nitp.ac.in/NA>;
+  dct:subject <http://nitp.ac.in/NA>;
+  dbo:company <http://nitp.ac.in/recruiters/ITCInfotech/>;
+  foaf:Person <http://nitp.ac.in/NA> .
+
+<http://nitp.ac.in/NA> a dbo:board, dbo:board, dbo:board, dbo:board, dbo:board, dbo:committee,
+    dct:subject, dbo:department, foaf:Person;
+  foaf:Person "NA" .
+
+<http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/> a dbo:University;
+  dbo:board <http://nitp.ac.in/NA>;
+  dbo:committee <http://nitp.ac.in/NA>;
+  dbo:department <http://nitp.ac.in/NA>;
+  dct:subject <http://nitp.ac.in/NA>;
+  dbo:company <http://nitp.ac.in/recruiters/ITDCLtd/>;
+  foaf:Person <http://nitp.ac.in/NA> .
+
+<http://nitp.ac.in/NA> a dbo:board, dbo:board, dbo:board, dbo:board, dbo:board, dbo:committee,
+    dct:subject, dbo:department, foaf:Person;
+  foaf:Person "NA" .
+
+<http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/> a dbo:University;
+  dbo:board <http://nitp.ac.in/NA>;
+  dbo:committee <http://nitp.ac.in/NA>;
+  dbo:department <http://nitp.ac.in/NA>;
+  dct:subject <http://nitp.ac.in/NA>;
+  dbo:company <http://nitp.ac.in/recruiters/JindalSteelPowerLtd/>;
+  foaf:Person <http://nitp.ac.in/NA> .
+
+<http://nitp.ac.in/NA> a dbo:board, dbo:board, dbo:board, dbo:board, dbo:board, dbo:committee,
+    dct:subject, dbo:department, foaf:Person;
+  foaf:Person "NA" .
+
+<http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/> dbo:board <http://nitp.ac.in/NA>;
+  a dbo:University;
+  dbo:committee <http://nitp.ac.in/NA>;
+  dbo:department <http://nitp.ac.in/NA>;
+  dct:subject <http://nitp.ac.in/NA>;
+  dbo:company <http://nitp.ac.in/recruiters/KazstroyEngineeringIndiaPvtLtd/>;
+  foaf:Person <http://nitp.ac.in/NA> .
+
+<http://nitp.ac.in/NA> a dbo:board, dbo:board, dbo:board, dbo:board, dbo:board, dbo:committee,
+    dct:subject, dbo:department, foaf:Person;
+  foaf:Person "NA" .
+
+<http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/> a dbo:University;
+  dbo:board <http://nitp.ac.in/NA>;
+  dbo:committee <http://nitp.ac.in/NA>;
+  dbo:department <http://nitp.ac.in/NA>;
+  dct:subject <http://nitp.ac.in/NA>;
+  dbo:company <http://nitp.ac.in/recruiters/Khorus/>;
+  foaf:Person <http://nitp.ac.in/NA> .
+
+<http://nitp.ac.in/NA> a dbo:board, dbo:board, dbo:board, dbo:board, dbo:board, dbo:committee,
+    dct:subject, dbo:department, foaf:Person;
+  foaf:Person "NA" .
+
+<http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/> a dbo:University;
+  dbo:board <http://nitp.ac.in/NA>;
+  dbo:committee <http://nitp.ac.in/NA>;
+  dbo:department <http://nitp.ac.in/NA>;
+  dct:subject <http://nitp.ac.in/NA>;
+  dbo:company <http://nitp.ac.in/recruiters/Kribhco/>;
+  foaf:Person <http://nitp.ac.in/NA> .
+
+<http://nitp.ac.in/NA> a dbo:board, dbo:board, dbo:board, dbo:board, dbo:board, dbo:committee,
+    dct:subject, dbo:department, foaf:Person;
+  foaf:Person "NA" .
+
+<http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/> dbo:committee <http://nitp.ac.in/NA>;
+  a dbo:University;
+  dbo:board <http://nitp.ac.in/NA>;
+  dbo:department <http://nitp.ac.in/NA>;
+  dct:subject <http://nitp.ac.in/NA>;
+  dbo:company <http://nitp.ac.in/recruiters/LTECC/>;
+  foaf:Person <http://nitp.ac.in/NA> .
+
+<http://nitp.ac.in/NA> a dbo:board, dbo:board, dbo:board, dbo:board, dbo:board, dbo:committee,
+    dct:subject, dbo:department, foaf:Person;
+  foaf:Person "NA" .
+
+<http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/> a dbo:University;
+  dbo:board <http://nitp.ac.in/NA>;
+  dbo:committee <http://nitp.ac.in/NA>;
+  dbo:department <http://nitp.ac.in/NA>;
+  dct:subject <http://nitp.ac.in/NA>;
+  dbo:company <http://nitp.ac.in/recruiters/LTPowai/>;
+  foaf:Person <http://nitp.ac.in/NA> .
+
+<http://nitp.ac.in/NA> a dbo:board, dbo:board, dbo:board, dbo:board, dbo:board, dbo:committee,
+    dct:subject, dbo:department, foaf:Person;
+  foaf:Person "NA" .
+
+<http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/> a dbo:University;
+  dbo:board <http://nitp.ac.in/NA>;
+  dbo:committee <http://nitp.ac.in/NA>;
+  dbo:department <http://nitp.ac.in/NA>;
+  dct:subject <http://nitp.ac.in/NA>;
+  dbo:company <http://nitp.ac.in/recruiters/MagnetiMarelii/>;
+  foaf:Person <http://nitp.ac.in/NA> .
+
+<http://nitp.ac.in/NA> a dbo:board, dbo:board, dbo:board, dbo:board, dbo:board, dbo:committee,
+    dct:subject, dbo:department, foaf:Person;
+  foaf:Person "NA" .
+
+<http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/> a dbo:University;
+  dbo:board <http://nitp.ac.in/NA>;
+  dbo:committee <http://nitp.ac.in/NA>;
+  dbo:department <http://nitp.ac.in/NA>;
+  dct:subject <http://nitp.ac.in/NA>;
+  dbo:company <http://nitp.ac.in/recruiters/MahindraMahindra/>;
+  foaf:Person <http://nitp.ac.in/NA> .
+
+<http://nitp.ac.in/NA> a dbo:board, dbo:board, dbo:board, dbo:board, dbo:board, dbo:committee,
+    dct:subject, dbo:department, foaf:Person;
+  foaf:Person "NA" .
+
+<http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/> a dbo:University;
+  dbo:board <http://nitp.ac.in/NA>;
+  dbo:committee <http://nitp.ac.in/NA>;
+  dbo:department <http://nitp.ac.in/NA>;
+  dct:subject <http://nitp.ac.in/NA>;
+  dbo:company <http://nitp.ac.in/recruiters/MatixFertilizers/>;
+  foaf:Person <http://nitp.ac.in/NA> .
+
+<http://nitp.ac.in/NA> a dbo:board, dbo:board, dbo:board, dbo:board, dbo:board, dbo:committee,
+    dct:subject, dbo:department, foaf:Person;
+  foaf:Person "NA" .
+
+<http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/> a dbo:University;
+  dbo:board <http://nitp.ac.in/NA>;
+  dbo:committee <http://nitp.ac.in/NA>;
+  dbo:department <http://nitp.ac.in/NA>;
+  dct:subject <http://nitp.ac.in/NA>;
+  dbo:company <http://nitp.ac.in/recruiters/MarutiSuzuki/>;
+  foaf:Person <http://nitp.ac.in/NA> .
+
+<http://nitp.ac.in/NA> a dbo:board, dbo:board, dbo:board, dbo:board, dbo:board, dbo:committee,
+    dct:subject, dbo:department, foaf:Person;
+  foaf:Person "NA" .
+
+<http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/> a dbo:University;
+  dbo:board <http://nitp.ac.in/NA>;
+  dbo:committee <http://nitp.ac.in/NA>;
+  dbo:department <http://nitp.ac.in/NA>;
+  dct:subject <http://nitp.ac.in/NA>;
+  dbo:company <http://nitp.ac.in/recruiters/MeconLtd/>;
+  foaf:Person <http://nitp.ac.in/NA> .
+
+<http://nitp.ac.in/NA> a dbo:board, dbo:board, dbo:board, dbo:board, dbo:board, dbo:committee,
+    dct:subject, dbo:department, foaf:Person;
+  foaf:Person "NA" .
+
+<http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/> a dbo:University;
+  dbo:board <http://nitp.ac.in/NA>;
+  dbo:committee <http://nitp.ac.in/NA>;
+  dbo:department <http://nitp.ac.in/NA>;
+  dct:subject <http://nitp.ac.in/NA>;
+  dbo:company <http://nitp.ac.in/recruiters/Microsoft/>;
+  foaf:Person <http://nitp.ac.in/NA> .
+
+<http://nitp.ac.in/NA> a dbo:board, dbo:board, dbo:board, dbo:board, dbo:board, dbo:committee,
+    dct:subject, dbo:department, foaf:Person;
+  foaf:Person "NA" .
+
+<http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/> a dbo:University;
+  dbo:board <http://nitp.ac.in/NA>;
+  dbo:committee <http://nitp.ac.in/NA>;
+  dbo:department <http://nitp.ac.in/NA>;
+  dct:subject <http://nitp.ac.in/NA>;
+  dbo:company <http://nitp.ac.in/recruiters/MuSigma/>;
+  foaf:Person <http://nitp.ac.in/NA> .
+
+<http://nitp.ac.in/NA> a dbo:board, dbo:board, dbo:board, dbo:board, dbo:board, dbo:committee,
+    dct:subject, dbo:department, foaf:Person;
+  foaf:Person "NA" .
+
+<http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/> a dbo:University;
+  dbo:board <http://nitp.ac.in/NA>;
+  dbo:committee <http://nitp.ac.in/NA>;
+  dbo:department <http://nitp.ac.in/NA>;
+  dct:subject <http://nitp.ac.in/NA>;
+  dbo:company <http://nitp.ac.in/recruiters/NTPCLtd/>;
+  foaf:Person <http://nitp.ac.in/NA> .
+
+<http://nitp.ac.in/NA> a dbo:board, dbo:board, dbo:board, dbo:board, dbo:board, dbo:committee,
+    dct:subject, dbo:department, foaf:Person;
+  foaf:Person "NA" .
+
+<http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/> a dbo:University;
+  dbo:board <http://nitp.ac.in/NA>;
+  dbo:committee <http://nitp.ac.in/NA>;
+  dbo:department <http://nitp.ac.in/NA>;
+  dct:subject <http://nitp.ac.in/NA>;
+  dbo:company <http://nitp.ac.in/recruiters/OceaneeringInternationalService/>;
+  foaf:Person <http://nitp.ac.in/NA> .
+
+<http://nitp.ac.in/NA> a dbo:board, dbo:board, dbo:board, dbo:board, dbo:board, dbo:committee,
+    dct:subject, dbo:department, foaf:Person;
+  foaf:Person "NA" .
+
+<http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/> a dbo:University;
+  dbo:board <http://nitp.ac.in/NA>;
+  dbo:committee <http://nitp.ac.in/NA>;
+  dbo:department <http://nitp.ac.in/NA>;
+  dct:subject <http://nitp.ac.in/NA>;
+  dbo:company <http://nitp.ac.in/recruiters/OracleIndia/>;
+  foaf:Person <http://nitp.ac.in/NA> .
+
+<http://nitp.ac.in/NA> a dbo:board, dbo:board, dbo:board, dbo:board, dbo:board, dbo:committee,
+    dct:subject, dbo:department, foaf:Person;
+  foaf:Person "NA" .
+
+<http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/> a dbo:University;
+  dbo:board <http://nitp.ac.in/NA>;
+  dbo:committee <http://nitp.ac.in/NA>;
+  dbo:department <http://nitp.ac.in/NA>;
+  dct:subject <http://nitp.ac.in/NA>;
+  dbo:company <http://nitp.ac.in/recruiters/Pfizer/>;
+  foaf:Person <http://nitp.ac.in/NA> .
+
+<http://nitp.ac.in/NA> a dbo:board, dbo:board, dbo:board, dbo:board, dbo:board, dbo:committee,
+    dct:subject, dbo:department, foaf:Person;
+  foaf:Person "NA" .
+
+<http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/> a dbo:University;
+  dbo:board <http://nitp.ac.in/NA>;
+  dbo:committee <http://nitp.ac.in/NA>;
+  dbo:department <http://nitp.ac.in/NA>;
+  dct:subject <http://nitp.ac.in/NA>;
+  dbo:company <http://nitp.ac.in/recruiters/PolarisFinancialTechnologyLtd/>;
+  foaf:Person <http://nitp.ac.in/NA> .
+
+<http://nitp.ac.in/NA> a dbo:board, dbo:board, dbo:board, dbo:board, dbo:board, dbo:committee,
+    dct:subject, dbo:department, foaf:Person;
+  foaf:Person "NA" .
+
+<http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/> a dbo:University;
+  dbo:board <http://nitp.ac.in/NA>;
+  dbo:committee <http://nitp.ac.in/NA>;
+  dbo:department <http://nitp.ac.in/NA>;
+  dct:subject <http://nitp.ac.in/NA>;
+  dbo:company <http://nitp.ac.in/recruiters/PricewaterhouseCoopersPvtLtdGRIDPowerUtilities/>;
+  foaf:Person <http://nitp.ac.in/NA> .
+
+<http://nitp.ac.in/NA> a dbo:board, dbo:board, dbo:board, dbo:board, dbo:board, dbo:committee,
+    dct:subject, dbo:department, foaf:Person;
+  foaf:Person "NA" .
+
+<http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/> dbo:board <http://nitp.ac.in/NA>;
+  dbo:committee <http://nitp.ac.in/NA>;
+  dbo:department <http://nitp.ac.in/NA>;
+  dct:subject <http://nitp.ac.in/NA>;
+  dbo:company <http://nitp.ac.in/recruiters/Rancore/>;
+  a dbo:University;
+  foaf:Person <http://nitp.ac.in/NA> .
+
+<http://nitp.ac.in/NA> a dbo:board, dbo:board, dbo:board, dbo:board, dbo:board, dbo:committee,
+    dct:subject, dbo:department, foaf:Person;
+  foaf:Person "NA" .
+
+<http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/> a dbo:University;
+  dbo:board <http://nitp.ac.in/NA>;
+  dbo:committee <http://nitp.ac.in/NA>;
+  dbo:department <http://nitp.ac.in/NA>;
+  dct:subject <http://nitp.ac.in/NA>;
+  dbo:company <http://nitp.ac.in/recruiters/RelianceIndustriesLtd/>;
+  foaf:Person <http://nitp.ac.in/NA> .
+
+<http://nitp.ac.in/NA> a dbo:board, dbo:board, dbo:board, dbo:board, dbo:board, dbo:committee,
+    dct:subject, dbo:department, foaf:Person;
+  foaf:Person "NA" .
+
+<http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/> a dbo:University;
+  dbo:board <http://nitp.ac.in/NA>;
+  dbo:committee <http://nitp.ac.in/NA>;
+  dbo:department <http://nitp.ac.in/NA>;
+  dct:subject <http://nitp.ac.in/NA>;
+  dbo:company <http://nitp.ac.in/recruiters/REVESystem/>;
+  foaf:Person <http://nitp.ac.in/NA> .
+
+<http://nitp.ac.in/NA> a dbo:board, dbo:board, dbo:board, dbo:board, dbo:board, dbo:committee,
+    dct:subject, dbo:department, foaf:Person;
+  foaf:Person "NA" .
+
+<http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/> a dbo:University;
+  dbo:board <http://nitp.ac.in/NA>;
+  dbo:committee <http://nitp.ac.in/NA>;
+  dbo:department <http://nitp.ac.in/NA>;
+  dct:subject <http://nitp.ac.in/NA>;
+  dbo:company <http://nitp.ac.in/recruiters/RITESLtd/>;
+  foaf:Person <http://nitp.ac.in/NA> .
+
+<http://nitp.ac.in/NA> a dbo:board, dbo:board, dbo:board, dbo:board, dbo:board, dbo:committee,
+    dct:subject, dbo:department, foaf:Person;
+  foaf:Person "NA" .
+
+<http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/> a dbo:University;
+  dbo:board <http://nitp.ac.in/NA>;
+  dbo:committee <http://nitp.ac.in/NA>;
+  dbo:department <http://nitp.ac.in/NA>;
+  dct:subject <http://nitp.ac.in/NA>;
+  dbo:company <http://nitp.ac.in/recruiters/SaintGobainGlassIndiaLtd/>;
+  foaf:Person <http://nitp.ac.in/NA> .
+
+<http://nitp.ac.in/NA> a dbo:board, dbo:board, dbo:board, dbo:board, dbo:board, dbo:committee,
+    dct:subject, dbo:department, foaf:Person;
+  foaf:Person "NA" .
+
+<http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/> a dbo:University;
+  dbo:board <http://nitp.ac.in/NA>;
+  dbo:committee <http://nitp.ac.in/NA>;
+  dbo:department <http://nitp.ac.in/NA>;
+  dct:subject <http://nitp.ac.in/NA>;
+  dbo:company <http://nitp.ac.in/recruiters/SamsungRD/>;
+  foaf:Person <http://nitp.ac.in/NA> .
+
+<http://nitp.ac.in/NA> a dbo:board, dbo:board, dbo:board, dbo:board, dbo:board, dbo:committee,
+    dct:subject, dbo:department, foaf:Person;
+  foaf:Person "NA" .
+
+<http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/> dbo:company <http://nitp.ac.in/recruiters/SamsungSoftwareEngineeringLabIndia/>;
+  dbo:department <http://nitp.ac.in/NA>;
+  dct:subject <http://nitp.ac.in/NA>;
+  a dbo:University;
+  dbo:board <http://nitp.ac.in/NA>;
+  dbo:committee <http://nitp.ac.in/NA>;
+  foaf:Person <http://nitp.ac.in/NA> .
+
+<http://nitp.ac.in/NA> a dbo:board, dbo:board, dbo:board, dbo:board, dbo:board, dbo:committee,
+    dct:subject, dbo:department, foaf:Person;
+  foaf:Person "NA" .
+
+<http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/> a dbo:University;
+  dbo:board <http://nitp.ac.in/NA>;
+  dbo:committee <http://nitp.ac.in/NA>;
+  dbo:department <http://nitp.ac.in/NA>;
+  dct:subject <http://nitp.ac.in/NA>;
+  dbo:company <http://nitp.ac.in/recruiters/SapLabIndia/>;
+  foaf:Person <http://nitp.ac.in/NA> .
+
+<http://nitp.ac.in/NA> a dbo:board, dbo:board, dbo:board, dbo:board, dbo:board, dbo:committee,
+    dct:subject, dbo:department, foaf:Person;
+  foaf:Person "NA" .
+
+<http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/> a dbo:University;
+  dbo:board <http://nitp.ac.in/NA>;
+  dbo:committee <http://nitp.ac.in/NA>;
+  dbo:department <http://nitp.ac.in/NA>;
+  dct:subject <http://nitp.ac.in/NA>;
+  dbo:company <http://nitp.ac.in/recruiters/SiemensLtd/>;
+  foaf:Person <http://nitp.ac.in/NA> .
+
+<http://nitp.ac.in/NA> a dbo:board, dbo:board, dbo:board, dbo:board, dbo:board, dbo:committee,
+    dct:subject, dbo:department, foaf:Person;
+  foaf:Person "NA" .
+
+<http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/> a dbo:University;
+  dbo:board <http://nitp.ac.in/NA>;
+  dbo:committee <http://nitp.ac.in/NA>;
+  dbo:department <http://nitp.ac.in/NA>;
+  dct:subject <http://nitp.ac.in/NA>;
+  dbo:company <http://nitp.ac.in/recruiters/SimplexInfrastructures/>;
+  foaf:Person <http://nitp.ac.in/NA> .
+
+<http://nitp.ac.in/NA> a dbo:board, dbo:board, dbo:board, dbo:board, dbo:board, dbo:committee,
+    dct:subject, dbo:department, foaf:Person;
+  foaf:Person "NA" .
+
+<http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/> dbo:department <http://nitp.ac.in/NA>;
+  a dbo:University;
+  dbo:board <http://nitp.ac.in/NA>;
+  dbo:committee <http://nitp.ac.in/NA>;
+  dct:subject <http://nitp.ac.in/NA>;
+  dbo:company <http://nitp.ac.in/recruiters/SobhaDevelopers/>;
+  foaf:Person <http://nitp.ac.in/NA> .
+
+<http://nitp.ac.in/NA> a dbo:board, dbo:board, dbo:board, dbo:board, dbo:board, dbo:committee,
+    dct:subject, dbo:department, foaf:Person;
+  foaf:Person "NA" .
+
+<http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/> a dbo:University;
+  dbo:board <http://nitp.ac.in/NA>;
+  dbo:committee <http://nitp.ac.in/NA>;
+  dbo:department <http://nitp.ac.in/NA>;
+  dct:subject <http://nitp.ac.in/NA>;
+  dbo:company <http://nitp.ac.in/recruiters/SUZUKIPowerTrainIndiaLtd/>;
+  foaf:Person <http://nitp.ac.in/NA> .
+
+<http://nitp.ac.in/NA> a dbo:board, dbo:board, dbo:board, dbo:board, dbo:board, dbo:committee,
+    dct:subject, dbo:department, foaf:Person;
+  foaf:Person "NA" .
+
+<http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/> a dbo:University;
+  dbo:board <http://nitp.ac.in/NA>;
+  dbo:committee <http://nitp.ac.in/NA>;
+  dbo:department <http://nitp.ac.in/NA>;
+  dct:subject <http://nitp.ac.in/NA>;
+  dbo:company <http://nitp.ac.in/recruiters/Syntel/>;
+  foaf:Person <http://nitp.ac.in/NA> .
+
+<http://nitp.ac.in/NA> a dbo:board, dbo:board, dbo:board, dbo:board, dbo:board, dbo:committee,
+    dct:subject, dbo:department, foaf:Person;
+  foaf:Person "NA" .
+
+<http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/> a dbo:University;
+  dbo:board <http://nitp.ac.in/NA>;
+  dbo:committee <http://nitp.ac.in/NA>;
+  dbo:department <http://nitp.ac.in/NA>;
+  dct:subject <http://nitp.ac.in/NA>;
+  dbo:company <http://nitp.ac.in/recruiters/TataMotors/>;
+  foaf:Person <http://nitp.ac.in/NA> .
+
+<http://nitp.ac.in/NA> a dbo:board, dbo:board, dbo:board, dbo:board, dbo:board, dbo:committee,
+    dct:subject, dbo:department, foaf:Person;
+  foaf:Person "NA" .
+
+<http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/> a dbo:University;
+  dbo:board <http://nitp.ac.in/NA>;
+  dbo:committee <http://nitp.ac.in/NA>;
+  dbo:department <http://nitp.ac.in/NA>;
+  dct:subject <http://nitp.ac.in/NA>;
+  dbo:company <http://nitp.ac.in/recruiters/TataSteelLtdJameshedpur/>;
+  foaf:Person <http://nitp.ac.in/NA> .
+
+<http://nitp.ac.in/NA> a dbo:board, dbo:board, dbo:board, dbo:board, dbo:board, dbo:committee,
+    dct:subject, dbo:department, foaf:Person;
+  foaf:Person "NA" .
+
+<http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/> a dbo:University;
+  dbo:board <http://nitp.ac.in/NA>;
+  dbo:committee <http://nitp.ac.in/NA>;
+  dbo:department <http://nitp.ac.in/NA>;
+  dct:subject <http://nitp.ac.in/NA>;
+  dbo:company <http://nitp.ac.in/recruiters/TriconInfoTech/>;
+  foaf:Person <http://nitp.ac.in/NA> .
+
+<http://nitp.ac.in/NA> a dbo:board, dbo:board, dbo:board, dbo:board, dbo:board, dbo:committee,
+    dct:subject, dbo:department, foaf:Person;
+  foaf:Person "NA" .
+
+<http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/> a dbo:University;
+  dbo:board <http://nitp.ac.in/NA>;
+  dbo:committee <http://nitp.ac.in/NA>;
+  dbo:department <http://nitp.ac.in/NA>;
+  dct:subject <http://nitp.ac.in/NA>;
+  dbo:company <http://nitp.ac.in/recruiters/TridentGroup/>;
+  foaf:Person <http://nitp.ac.in/NA> .
+
+<http://nitp.ac.in/NA> a dbo:board, dbo:board, dbo:board, dbo:board, dbo:board, dbo:committee,
+    dct:subject, dbo:department, foaf:Person;
+  foaf:Person "NA" .
+
+<http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/> a dbo:University;
+  dbo:board <http://nitp.ac.in/NA>;
+  dbo:committee <http://nitp.ac.in/NA>;
+  dbo:department <http://nitp.ac.in/NA>;
+  dct:subject <http://nitp.ac.in/NA>;
+  dbo:company <http://nitp.ac.in/recruiters/UnisysGlobalServices/>;
+  foaf:Person <http://nitp.ac.in/NA> .
+
+<http://nitp.ac.in/NA> a dbo:board, dbo:board, dbo:board, dbo:board, dbo:board, dbo:committee,
+    dct:subject, dbo:department, foaf:Person;
+  foaf:Person "NA" .
+
+<http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/> a dbo:University;
+  dbo:board <http://nitp.ac.in/NA>;
+  dbo:committee <http://nitp.ac.in/NA>;
+  dbo:department <http://nitp.ac.in/NA>;
+  dct:subject <http://nitp.ac.in/NA>;
+  dbo:company <http://nitp.ac.in/recruiters/UvacaDigitalSystemsPvtLtd/>;
+  foaf:Person <http://nitp.ac.in/NA> .
+
+<http://nitp.ac.in/NA> a dbo:board, dbo:board, dbo:board, dbo:board, dbo:board, dbo:committee,
+    dct:subject, dbo:department, foaf:Person;
+  foaf:Person "NA" .
+
+<http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/> a dbo:University;
+  dbo:board <http://nitp.ac.in/NA>;
+  dbo:committee <http://nitp.ac.in/NA>;
+  dbo:department <http://nitp.ac.in/NA>;
+  dct:subject <http://nitp.ac.in/NA>;
+  dbo:company <http://nitp.ac.in/recruiters/Vedanta/>;
+  foaf:Person <http://nitp.ac.in/NA> .
+
+<http://nitp.ac.in/NA> a dbo:board, dbo:board, dbo:board, dbo:board, dbo:board, dbo:committee,
+    dct:subject, dbo:department, foaf:Person;
+  foaf:Person "NA" .
+
+<http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/> a dbo:University;
+  dbo:board <http://nitp.ac.in/NA>;
+  dbo:committee <http://nitp.ac.in/NA>;
+  dbo:department <http://nitp.ac.in/NA>;
+  dct:subject <http://nitp.ac.in/NA>;
+  dbo:company <http://nitp.ac.in/recruiters/Verizon/>;
+  foaf:Person <http://nitp.ac.in/NA> .
+
+<http://nitp.ac.in/NA> a dbo:board, dbo:board, dbo:board, dbo:board, dbo:board, dbo:committee,
+    dct:subject, dbo:department, foaf:Person;
+  foaf:Person "NA" .
+
+<http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/> a dbo:University;
+  dbo:board <http://nitp.ac.in/NA>;
+  dbo:committee <http://nitp.ac.in/NA>;
+  dbo:department <http://nitp.ac.in/NA>;
+  dct:subject <http://nitp.ac.in/NA>;
+  dbo:company <http://nitp.ac.in/recruiters/VirajProfilesLtd/>;
+  foaf:Person <http://nitp.ac.in/NA> .
+
+<http://nitp.ac.in/NA> a dbo:board, dbo:board, dbo:board, dbo:board, dbo:board, dbo:committee,
+    dct:subject, dbo:department, foaf:Person;
+  foaf:Person "NA" .
+
+<http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/> a dbo:University;
+  dbo:board <http://nitp.ac.in/NA>;
+  dbo:committee <http://nitp.ac.in/NA>;
+  dbo:department <http://nitp.ac.in/NA>;
+  dct:subject <http://nitp.ac.in/NA>;
+  dbo:company <http://nitp.ac.in/recruiters/WiproTechnologies/>;
+  foaf:Person <http://nitp.ac.in/NA> .
+
+<http://nitp.ac.in/NA> a dbo:board, dbo:board, dbo:board, dbo:board, dbo:board, dbo:committee,
+    dct:subject, dbo:department, foaf:Person;
+  foaf:Person "NA" .
+
+<http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/> a dbo:University;
+  dbo:board <http://nitp.ac.in/NA>;
+  dbo:committee <http://nitp.ac.in/NA>;
+  dbo:department <http://nitp.ac.in/NA>;
+  dct:subject <http://nitp.ac.in/NA>;
+  dbo:company <http://nitp.ac.in/recruiters/YodleeInfotech/>;
+  foaf:Person <http://nitp.ac.in/NA> .
+
+<http://nitp.ac.in/NA> a dbo:board, dbo:board, dbo:board, dbo:board, dbo:board, dbo:committee,
+    dct:subject, dbo:department, foaf:Person;
+  foaf:Person "NA" .

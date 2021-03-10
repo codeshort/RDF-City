@@ -1,0 +1,3030 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:dbc="http://dbpedia.org/resource/Category:"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dbr="http://dbpedia.org/resource/"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:nirfE rdf:datatype="http://www.w3.org/2001/XMLSchema#int">92</dbo:nirfE>
+	<dbo:mission>To generate new knowledge by engaging in cutting-edge research and to promote academic growth by offering state-of-the-art undergraduate, postgraduate and doctoral programmes
+</dbo:mission>
+	<dbo:abstract>National Institute of Technology Patna is the 18th National Institute of Technology created by the Ministry of H.R.D. Government of India after rechristening the erstwhile Bihar College of Engineering Patna on 28. 01. 2004. NIT Patna marked its humble beginning in 1886 with the establishment of pleaders survey training school which was subsequently promoted of Bihar College of Engineering Patna in 1924. This made this institute the 6th Oldest Engineering Institute of India. The graduate level curriculum was later elevated to the post graduate level in 1978. The institute is situated on the south bank of holy river Ganges behind Gandhi Ghat, one of the most important and reverential place of Patna. The Gandhi Ghat is associated with the immersion of ashes of father of the Nation Mahatma Gandhi in the river Ganges. The campus has a picturesque river view with historic building presenting a spectacle of architectural delight and natural beauty.        National Institute of Technology Patna has been declared as an Institute of National Importance and has been granted a fully Autonomous Status by MHRD, Government of India. The Institute has also been declared as a Centre of Excellence of impart high level education training , research and development in science, engineering technology and humanities. It is imparting high quality education &amp; values at UG (B.Tech), PG (M.Tech) &amp; Ph .D programmes through its experienced faculty well versed in their respective field of engineering an technology with well equipped laboratories . At present the Institute has seven disciplines viz. Architecture, Civil Engineering, Compute Science &amp; Engg., Electrical Engg., Electronics &amp; Communication Engg., Information Technology and Mechanical Engg., and well established departments of physics, Mathematics and Humanities and Social Science.        National Institute of Technology Patna aims at setting out very high education standards and holds long record of academic excellence. The pedagogical aspects have been formulated to suit not only the needs of the contemporary industrial requirements but also to develop human potential to its fullest extent in a range of professions. Extra curricular activities are planed through games and sports, cultural programmes and NSS activities. Cultural activities provide a platform to know about the culture of various states and regions of the country and opportunity for national integration.        Ever since its rechristening, NIT Patna has been on the fast track of development and has undergone numerous facelifts because of which placement records have witnessed unprecedented growth and is touching new heights as the graph of placement is increasing remarkably.    </dbo:abstract>
+	<dbp:director>Prof. Pradip Kumar Jain
+</dbp:director>
+	<dbo:Dean>Prof. S. K. Verma
+</dbo:Dean>
+	<dbo:chairman>Prof. Pradip Kumar Jain
+</dbo:chairman>
+	<dbo:Dean>Prof. Om Prakash
+</dbo:Dean>
+	<dbo:Dean>Prof. Prakash Chandra
+</dbo:Dean>
+	<dbo:Dean>Prof. Fulena Rajak
+</dbo:Dean>
+	<dbo:Dean>Prof. Lal Bahadur Roy
+</dbo:Dean>
+	<dbo:board rdf:resource="http://nitp.ac.in/BOG/ChairpersonActgBOGNITPatna/"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/BWC/ExOfficioChairperson"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/IDC/Chairman"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/FC/ChairpersonActgBOGNITPatna"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/Senate/ExOfficioChairman"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/ServiceUnit/Personnel/"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/AcademicProgrammesBranch/Architecture/"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/department/Architecture/"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/placementOfficers/DrSamratMukherjee/"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/ABBLtd/"/>
+	<foaf:phone rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0612-237 1715</foaf:phone>
+	<dbo:address>National Institute of Technology Patna, Ashok Rajpath, Mahendru, Patna, Bihar (800005), India
+</dbo:address>
+	<dbc:initiative>https://webcast.nitp.ac.in/Panopto/Pages/Viewer.aspx?id=8481eb96-881a-4a04-ba70-b30449feeea4.</dbc:initiative>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/BOG/ChairpersonActgBOGNITPatna/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>Prof. Pradip Kumar Jain</foaf:Person>
+	<dbo:title>Director, NIT Patna
+</dbo:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/BWC/ExOfficioChairperson">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>Prof. Pradip Kumar Jain
+</foaf:Person>
+	<dbo:title>Director, NIT Patna
+</dbo:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/IDC/Chairman">
+	<dbo:department>Professor, Mech.Engg.Dept.
+</dbo:department>
+	<dbo:title>Dean (Student Welfare)
+</dbo:title>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>Prof. (Dr.) Prakash Chandra
+</foaf:Person>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/FC/ChairpersonActgBOGNITPatna">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>Prof. Pradip Kumar Jain
+</foaf:Person>
+	<dbo:title>Director, NIT Patna
+</dbo:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/Senate/ExOfficioChairman">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>Prof. P. K. Jain
+</foaf:Person>
+	<dbo:title>Director, NIT Patna
+</dbo:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/ServiceUnit/Personnel/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<foaf:Person>Dr. Asit Narayan
+</foaf:Person>
+	<dbo:title>Registrar
+</dbo:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/AcademicProgrammesBranch/Architecture/">
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<dbc:Academic_degrees>Bachelor of Architecture
+</dbc:Academic_degrees>
+	<dbo:duration>5 years
+</dbo:duration>
+	<dbo:Type>Under Graduate Programmes
+</dbo:Type>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/department/Architecture/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<foaf:mbox>archi@nitp.ac.in</foaf:mbox>
+	<foaf:phone rdf:datatype="http://www.w3.org/2001/XMLSchema#int">199
+</foaf:phone>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/placementOfficers/DrSamratMukherjee/">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+	<foaf:mbox>samrat@nitp.ac.in</foaf:mbox>
+	<foaf:phone rdf:datatype="http://www.w3.org/2001/XMLSchema#int">9973791523</foaf:phone>
+	<dbo:title>Professor Incharge, Training &amp; Placement Cell
+Associate Professor, Department of Physics
+National Institute Of Technology, Patna-800005 , Bihar
+</dbo:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:mission>To identify, based on an informed perception of Indian, regional and global needs, areas of specialization upon which the Institute can concentrate
+</dbo:mission>
+	<dbo:board rdf:resource="http://nitp.ac.in/BOG/ExOfficioMember/"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/BWC/ExOfficioMember"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/IDC/Member"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/FC/Member"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/Senate/Member"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/ServiceUnit/EstablishmentAdministration/"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/AcademicProgrammesBranch/CivilEngineering/"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/department/CivilEngineering/"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/placementOfficers/DrShaileshMPandey/"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/AccentureServicePvtLtd/"/>
+	<foaf:phone rdf:datatype="http://www.w3.org/2001/XMLSchema#int"> 0612-237 2715</foaf:phone>
+	<dbc:initiative>https://webcast.nitp.ac.in/Panopto/Pages/Viewer.aspx?id=449b9433-c336-4eec-8430-aa164ee27770</dbc:initiative>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/BOG/ExOfficioMember/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>Prof. Pradip Kumar Jain</foaf:Person>
+	<dbo:title>Director, NIT Patna
+</dbo:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/BWC/ExOfficioMember">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>NIL</foaf:Person>
+	<dbo:title>Director or Deputy Secretary or his nominee
+Dealing with NITs in Ministry
+</dbo:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/IDC/Member">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>Prof. (Dr.) Vivekanand Singh
+</foaf:Person>
+	<dbo:department>Professor, Civil Engg. Dept.
+</dbo:department>
+	<dbo:title>Director’s Nominee
+</dbo:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/FC/Member">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>Prof. Pradip Kumar Jain
+</foaf:Person>
+	<dbo:title>Director, NIT Patna
+</dbo:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/Senate/Member">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>Dr. Manoj Kumar
+</foaf:Person>
+	<dbo:title>Professor, Architecture Dept.
+</dbo:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/ServiceUnit/EstablishmentAdministration/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<foaf:Person>Dr. Asit Narayan
+</foaf:Person>
+	<dbo:title>Deputy Registrar
+</dbo:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/AcademicProgrammesBranch/CivilEngineering/">
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<dbc:Academic_degrees>Bachelor of Technology
+</dbc:Academic_degrees>
+	<dbo:duration>4 Years
+</dbo:duration>
+	<dbo:Type>Under Graduate Programmes
+</dbo:Type>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/department/CivilEngineering/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<foaf:mbox>civil@nitp.ac.in</foaf:mbox>
+	<foaf:phone rdf:datatype="http://www.w3.org/2001/XMLSchema#int">126
+</foaf:phone>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/placementOfficers/DrShaileshMPandey/">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+	<foaf:mbox>smp.me@nitp.ac.in</foaf:mbox>
+	<foaf:phone rdf:datatype="http://www.w3.org/2001/XMLSchema#int">8750111166</foaf:phone>
+	<dbo:title>Training Placement Officer, Training &amp; Placement Cell
+Assistant Professor, Department of Mechanical Engineering
+National Institute Of Technology, Patna-800005 , Bihar
+</dbo:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:mission>To undertake collaborative projects which offer opportunities for long term interaction with academia and industry
+</dbo:mission>
+	<dbo:board rdf:resource="http://nitp.ac.in/BOG/Member/"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/BWC/ExOfficioMember"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/IDC/Member"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/FC/Member"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/Senate/Member"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/ServiceUnit/Examinations/"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/AcademicProgrammesBranch/ComputerScinceEngineering/"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/department/ComputerScienceEngineering/"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/AdaniPowerLtdAhmadabad/"/>
+	<dbc:initiative>https://webcast.nitp.ac.in/Panopto/Pages/Viewer.aspx?id=ea39bab1-3a53-4977-bd25-5bc1e007d502</dbc:initiative>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/BOG/Member/">
+	<dbo:title>Joint Secretary (Techincal) or his/her nominee
+Department of Higher Education
+Ministry of Human Resources Development
+C-Wing, Shastri Bhawan,
+New Delhi-110 001
+</dbo:title>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>NIL</foaf:Person>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/BWC/ExOfficioMember">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>NIL</foaf:Person>
+	<dbo:title>Director or Deputy Secretary or his nominee
+Dealing with Finance of NITs in Ministry
+</dbo:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/IDC/Member">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>Dr. Samrat Mukherjee
+</foaf:Person>
+	<dbo:department>Associate Professor, Physics Dept.
+</dbo:department>
+	<dbo:title>Chairman, Hostel Management Committee
+</dbo:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/FC/Member">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>NIL</foaf:Person>
+	<dbo:title>Joint Secretary (Techincal) or his/her nominee
+Department of Higher Education
+Ministry of Human Resources Development
+C-Wing, Shastri Bhawan,
+New Delhi-110 001
+</dbo:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/Senate/Member">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>Dr. Fulena Rajak
+</foaf:Person>
+	<dbo:title>Professor, Architecture Dept.
+</dbo:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/ServiceUnit/Examinations/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<foaf:Person>Dr. Abdur Rahman Quaff
+</foaf:Person>
+	<dbo:title>Prof. In-charge
+</dbo:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/AcademicProgrammesBranch/ComputerScinceEngineering/">
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<dbc:Academic_degrees>Bachelor of Technology
+</dbc:Academic_degrees>
+	<dbo:duration>4 Years
+</dbo:duration>
+	<dbo:Type>Under Graduate Programmes
+</dbo:Type>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/department/ComputerScienceEngineering/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<foaf:mbox>cse@nitp.ac.in</foaf:mbox>
+	<foaf:phone rdf:datatype="http://www.w3.org/2001/XMLSchema#int">184
+</foaf:phone>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<dbo:mission>To develop human potential to its fullest extent so that intellectually capable and imaginatively gifted leaders can emerge in a range of profession
+</dbo:mission>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/BOG/Member/"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/BWC/Member"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/IDC/Member"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/FC/Member"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/Senate/Member"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/ServiceUnit/TrainingandPlacement/"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/AcademicProgrammesBranch/ElectricalEngineering/"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/department/ElectricalEngineering/"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/AdityaBirlaGroupChemical/"/>
+	<dbc:initiative>https://webcast.nitp.ac.in/Panopto/Pages/Viewer.aspx?id=5559e621-ad4c-4f15-951c-c6618cc8b90b</dbc:initiative>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/BOG/Member/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>NIL</foaf:Person>
+	<dbo:title>JS and Financial Advisor or his/her nominee
+Department of Higher Education
+Ministry of Human Resources Development
+C-Wing, Shastri Bhawan,
+New Delhi-110 001
+</dbo:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/BWC/Member">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>Dr. Rajesh Kumar
+</foaf:Person>
+	<dbo:title>Professor
+Department of Civil Engineering
+IIT BHU
+</dbo:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/IDC/Member">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>NIL</foaf:Person>
+	<dbo:department>NIL</dbo:department>
+	<dbo:title>Warden of the Hostel of Residence of which the student concerned is a boarder
+</dbo:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/FC/Member">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>NIL</foaf:Person>
+	<dbo:title>JS and Financial Advisor or his/her nominee
+Department of Higher Education
+Ministry of Human Resources Development
+C-Wing, Shastri Bhawan,
+New Delhi-110 001
+</dbo:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/Senate/Member">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>Dr. Sita Ram Sharma
+</foaf:Person>
+	<dbo:title>Professor, Chemistry Dept.
+</dbo:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/ServiceUnit/TrainingandPlacement/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<foaf:Person>Dr. Samrat Mukherjee
+</foaf:Person>
+	<dbo:title>Prof. In-charge
+</dbo:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/AcademicProgrammesBranch/ElectricalEngineering/">
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<dbc:Academic_degrees>Bachelor of Technology
+</dbc:Academic_degrees>
+	<dbo:duration>4 Years
+</dbo:duration>
+	<dbo:Type>Under Graduate Programmes
+</dbo:Type>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/department/ElectricalEngineering/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<foaf:mbox>electrical@nitp.ac.in</foaf:mbox>
+	<foaf:phone rdf:datatype="http://www.w3.org/2001/XMLSchema#int">153
+</foaf:phone>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/BOG/Member/"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/BWC/Member"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/IDC/Member"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/FC/Member"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/Senate/Member"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/ServiceUnit/HMC/"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/AcademicProgrammesBranch/ElectronicsCommunicationEngineering/"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/department/ElectronicsCommunicationEngineering/"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/Afcons/"/>
+	<dbc:initiative>https://webcast.nitp.ac.in/Panopto/Pages/Viewer.aspx?id=08d6a31c-c935-4f0d-a53a-689bcccdb14e</dbc:initiative>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/BOG/Member/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>Sri Shailendra P. Sinha</foaf:Person>
+	<dbo:title>Managing Director, Kalyanpur Cement Ltd.
+Maurya Center, 1, Frazer Road,
+PB No. 89, Patna-800001 (Bihar).
+</dbo:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/BWC/Member">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>Sri Ashok Kumar
+</foaf:Person>
+	<dbo:title>Director (Operation)
+South Bihar Power Distribution Co. Ltd
+Patna
+</dbo:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/IDC/Member">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>Dr. T. Roshni
+</foaf:Person>
+	<dbo:department>Asst. Professor, Civil Engg. Dept.
+</dbo:department>
+	<dbo:title>One faculty nominated by the Senate
+</dbo:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/FC/Member">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>NIL</foaf:Person>
+	<dbo:title>Director IIT Patna or his nominee not below the rank of professor
+</dbo:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/Senate/Member">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>Dr. L. B. Roy
+</foaf:Person>
+	<dbo:title>Professor, Civil Engineering Dept.
+</dbo:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/ServiceUnit/HMC/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<foaf:Person>Dr. Samrat Mukherjee
+</foaf:Person>
+	<dbo:title>Chairman
+</dbo:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/AcademicProgrammesBranch/ElectronicsCommunicationEngineering/">
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<dbc:Academic_degrees>Bachelor of Technology
+</dbc:Academic_degrees>
+	<dbo:duration>4 Years
+</dbo:duration>
+	<dbo:Type>Under Graduate Programmes
+</dbo:Type>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/department/ElectronicsCommunicationEngineering/">
+	<foaf:mbox>ece@nitp.ac.in</foaf:mbox>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<foaf:phone rdf:datatype="http://www.w3.org/2001/XMLSchema#int">177
+</foaf:phone>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/BOG/Member/"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/BWC/Member"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/IDC/Member"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/FC/ExOfficioMemberSecretary"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/Senate/Member"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/ServiceUnit/Procurement/"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/AcademicProgrammesBranch/InformationTechnology/"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/department/MechanicalEngineering/"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/AsiaMotorsWorksAMW/"/>
+	<dbc:initiative>https://webcast.nitp.ac.in/Panopto/Pages/Viewer.aspx?id=91529777-74db-4f1b-820c-7504a5c904c0</dbc:initiative>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/BOG/Member/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>Sri Aditya Prakash Mishra</foaf:Person>
+	<dbo:title>Former Member, Railway Engineering Board,
+New Delhi.
+</dbo:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/BWC/Member">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>Sri Pawan Kumar
+</foaf:Person>
+	<dbo:title>Executive Engineer
+Construction Divison-1
+BCD, Govt. of Bihar
+</dbo:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/IDC/Member">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>Devat Singh, Roll no- 1501073
+</foaf:Person>
+	<dbo:department>Boy Student Representative
+</dbo:department>
+	<dbo:title>students representative nominated by Dean (Student Welfare) 1
+</dbo:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/FC/ExOfficioMemberSecretary">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>Dr. Asit Narayan
+</foaf:Person>
+	<dbo:title>Registrar, NIT Patna
+</dbo:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/Senate/Member">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>Dr. Sanjeev Sinha
+</foaf:Person>
+	<dbo:title>Professor, Civil Engineering Dept.
+</dbo:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/ServiceUnit/Procurement/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<foaf:Person>Prof. Prakash Chandra
+</foaf:Person>
+	<dbo:title>Professor Incharge
+</dbo:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/AcademicProgrammesBranch/InformationTechnology/">
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<dbc:Academic_degrees>Bachelor of Technology
+</dbc:Academic_degrees>
+	<dbo:duration>4 Years
+</dbo:duration>
+	<dbo:Type>Under Graduate Programmes
+</dbo:Type>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/department/MechanicalEngineering/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<foaf:mbox>officemech@nitp.ac.in</foaf:mbox>
+	<foaf:phone rdf:datatype="http://www.w3.org/2001/XMLSchema#int">440
+</foaf:phone>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/BOG/Member/"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/BWC/Member"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/IDC/Member"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/Senate/Member"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/ServiceUnit/TEQIPIII/"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/AcademicProgrammesBranch/MechanicalEngineering/"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/department/Mathematics/"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/BelzabarSoftwareDesignIndiaPvtLtd/"/>
+	<dbc:initiative>https://webcast.nitp.ac.in/Panopto/Pages/Viewer.aspx?id=3859882e-ae4e-482b-92c1-768cf2211735</dbc:initiative>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/BOG/Member/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>Dr. Chandrawati Jee</foaf:Person>
+	<dbo:title>Former Head,
+P.G. Department of Biotechnology
+A.N. College, Patna.
+</dbo:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/BWC/Member">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>Prof. Fulena Rajak
+</foaf:Person>
+	<dbo:title>Dean (Planning &amp; Development), NIT Patna.
+</dbo:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/IDC/Member">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>Madhulika Pandey, Roll no-1507001
+</foaf:Person>
+	<dbo:department>Girl Student Representative
+</dbo:department>
+	<dbo:title>students representative nominated by Dean (Student Welfare)2
+</dbo:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/Senate/Member">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>Dr. Ajay Kumar Sinha
+</foaf:Person>
+	<dbo:title>Professor, Civil Engineering Dept.
+</dbo:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/ServiceUnit/TEQIPIII/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<foaf:Person>Dr. M. P. Singh
+</foaf:Person>
+	<dbo:title>Coordinator
+</dbo:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/AcademicProgrammesBranch/MechanicalEngineering/">
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<dbc:Academic_degrees>Bachelor of Technology
+</dbc:Academic_degrees>
+	<dbo:duration>4 Years
+</dbo:duration>
+	<dbo:Type>Under Graduate Programmes
+</dbo:Type>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/department/Mathematics/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<foaf:mbox>mathematics@nitp.ac.in</foaf:mbox>
+	<foaf:phone rdf:datatype="http://www.w3.org/2001/XMLSchema#int">117
+</foaf:phone>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/BOG/Member/"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/BWC/MemberSecretary"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/IDC/MemberSecretary"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/Senate/Member"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/ServiceUnit/ComputerCenter/"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/AcademicProgrammesBranch/WaterResourcesEngineering/"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/department/Chemistry/"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/BhartiInfratelLtd/"/>
+	<dbc:initiative>https://webcast.nitp.ac.in/Panopto/Pages/Viewer.aspx?id=3848b244-8218-47a0-a914-8b9d3ee219ec</dbc:initiative>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/BOG/Member/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>Dr. Narendra Kumar Singh</foaf:Person>
+	<dbo:title>Associate Professor &amp; Head
+Department of Physics, S.N. Sinha College,
+Jehanabad.
+</dbo:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/BWC/MemberSecretary">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>Dr. Asit Narayan
+</foaf:Person>
+	<dbo:title>Registrar, NIT Patna
+</dbo:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/IDC/MemberSecretary">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>Dr. Asit Narayan
+</foaf:Person>
+	<dbo:department>Registrar,NIT Patna
+</dbo:department>
+	<dbo:title>The Registrar
+</dbo:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/Senate/Member">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>Dr. S. S. Mishra
+</foaf:Person>
+	<dbo:title>Professor, Civil Engineering Dept.
+</dbo:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/ServiceUnit/ComputerCenter/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<foaf:Person>Dr. M. P. Singh
+</foaf:Person>
+	<dbo:title>Prof. In-charge
+</dbo:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/AcademicProgrammesBranch/WaterResourcesEngineering/">
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<dbc:Academic_degrees>Master of Technology (Civil Engineering)
+</dbc:Academic_degrees>
+	<dbo:duration>2 Years
+</dbo:duration>
+	<dbo:Type>Post Graduate Programmes
+</dbo:Type>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/department/Chemistry/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<foaf:mbox>chemistry@nitp.ac.in</foaf:mbox>
+	<foaf:phone rdf:datatype="http://www.w3.org/2001/XMLSchema#int">NIL</foaf:phone>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/Senate/Member"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/ServiceUnit/CentralLibrary/"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/AcademicProgrammesBranch/TransportationEngineering/"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/department/Physics/"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/BhushanSteelLtd/"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/BOG/Member/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/BOG/Member/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>Prof. S.K. Verma</foaf:Person>
+	<dbo:title>Professor, Mechanical Engg. Dept.,
+NIT Patna
+</dbo:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/Senate/Member">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>Dr. Vivekanand Singh
+</foaf:Person>
+	<dbo:title>Professor, Civil Engineering Dept.
+</dbo:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/ServiceUnit/CentralLibrary/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<foaf:Person>Dr. Anshuman Singh
+</foaf:Person>
+	<dbo:title>Prof. In-charge
+</dbo:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/AcademicProgrammesBranch/TransportationEngineering/">
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<dbc:Academic_degrees>Master of Technology (Civil Engineering)
+</dbc:Academic_degrees>
+	<dbo:duration>2 Years
+</dbo:duration>
+	<dbo:Type>Post Graduate Programmes
+</dbo:Type>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/department/Physics/">
+	<foaf:mbox>physics@nitp.ac.in</foaf:mbox>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<foaf:phone rdf:datatype="http://www.w3.org/2001/XMLSchema#int">163
+</foaf:phone>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<dbo:board rdf:resource="http://nitp.ac.in/BOG/Member/"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/Senate/Member"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/ServiceUnit/ITServices/"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/AcademicProgrammesBranch/StructuralEngineering/"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/department/SocialSciencesHumanities/"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/BPCL/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/BOG/Member/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>NIL</foaf:Person>
+	<dbo:title>Director IIT Patna or his nominee not below the rank of professor
+</dbo:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/Senate/Member">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>Dr. Ramesh Kumar
+</foaf:Person>
+	<dbo:title>Professor, Electrical Engineering Dept
+</dbo:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/ServiceUnit/ITServices/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<foaf:Person>Dr. Prabhat Kumar
+</foaf:Person>
+	<dbo:title>Prof. In-charge
+</dbo:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/AcademicProgrammesBranch/StructuralEngineering/">
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<dbc:Academic_degrees>Master of Technology (Civil Engineering)
+</dbc:Academic_degrees>
+	<dbo:duration>2 Years
+</dbo:duration>
+	<dbo:Type>Post Graduate Programmes
+</dbo:Type>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/department/SocialSciencesHumanities/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<foaf:mbox>ssh@nitp.ac.in</foaf:mbox>
+	<foaf:phone rdf:datatype="http://www.w3.org/2001/XMLSchema#int">118
+</foaf:phone>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/BOG/SecretarytoBOGNITPatna/"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/Senate/Member"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/ServiceUnit/WebServicesandMIS/"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/AcademicProgrammesBranch/EnvironmentalEngineering/"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/NA"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/BSEB/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/BOG/SecretarytoBOGNITPatna/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>Dr. Asit Narayan</foaf:Person>
+	<dbo:title>Registrar, NIT Patna
+</dbo:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/Senate/Member">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>Dr. Sawal Kishore Singh
+</foaf:Person>
+	<dbo:title>Mathematics Dept.
+</dbo:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/ServiceUnit/WebServicesandMIS/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<foaf:Person>Dr. Akshay Deepak
+</foaf:Person>
+	<dbo:title>Prof. In-charge
+</dbo:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/AcademicProgrammesBranch/EnvironmentalEngineering/">
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<dbc:Academic_degrees>Master of Technology (Civil Engineering)
+</dbc:Academic_degrees>
+	<dbo:duration>2 Years
+</dbo:duration>
+	<dbo:Type>Post Graduate Programmes
+</dbo:Type>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/Senate/Member"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/ServiceUnit/FinanceAccounts/"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/AcademicProgrammesBranch/GeotechnicalEngineering/"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/NA"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/Capgemini/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>NA</foaf:Person>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/Senate/Member">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>Dr. S. K. Verma
+</foaf:Person>
+	<dbo:title>Professor, Mechanical Engineering Dept.
+</dbo:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/ServiceUnit/FinanceAccounts/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<foaf:Person>Shri Mani Shankar Singh
+</foaf:Person>
+	<dbo:title>Deputy Registrar
+</dbo:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/AcademicProgrammesBranch/GeotechnicalEngineering/">
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<dbc:Academic_degrees>Master of Technology (Civil Engineering)
+</dbc:Academic_degrees>
+	<dbo:duration>2 Years
+</dbo:duration>
+	<dbo:Type>Post Graduate Programmes
+</dbo:Type>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/Senate/Member"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/ServiceUnit/RD/"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/AcademicProgrammesBranch/ControlSystemEngineering/"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/NA"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/CCCL/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>NA</foaf:Person>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/Senate/Member">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>Dr. Om Prakash
+</foaf:Person>
+	<dbo:title>Professor, Mechanical Engineering Dept.
+</dbo:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/ServiceUnit/RD/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<foaf:Person>Sri Sunil Kumar Dwivedi
+</foaf:Person>
+	<dbo:title>Deputy Registrar
+</dbo:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/AcademicProgrammesBranch/ControlSystemEngineering/">
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<dbc:Academic_degrees>Master of Technology (Electrical Engineering)
+</dbc:Academic_degrees>
+	<dbo:duration>2 Years
+</dbo:duration>
+	<dbo:Type>Post Graduate Programmes
+</dbo:Type>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/Senate/Member"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/ServiceUnit/EMU/"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/AcademicProgrammesBranch/PowerSystemEngineering/"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/NA"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/CivilEngineeringTestingCoPvtLtd/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>NA</foaf:Person>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/Senate/Member">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>Dr. N. R. Lall
+</foaf:Person>
+	<dbo:title>Professor, Physics Dept.
+</dbo:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/ServiceUnit/EMU/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<foaf:Person>Dr. R. K. Mandal
+</foaf:Person>
+	<dbo:title>Prof. In-charge
+</dbo:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/AcademicProgrammesBranch/PowerSystemEngineering/">
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<dbc:Academic_degrees>Master of Technology (Electrical Engineering)
+</dbc:Academic_degrees>
+	<dbo:duration>2 Years
+</dbo:duration>
+	<dbo:Type>Post Graduate Programmes
+</dbo:Type>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/Senate/Member"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/ServiceUnit/Examination/"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/AcademicProgrammesBranch/ThermalEngineering/"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/NA"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/ComproTechnology/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>NA</foaf:Person>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/Senate/Member">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>Dr. Ramakar Jha
+</foaf:Person>
+	<dbo:title>Professor, Civil Engineering Dept.
+</dbo:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/ServiceUnit/Examination/">
+	<foaf:Person>Mrs. Bobby
+</foaf:Person>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<dbo:title>Deputy Registrar
+</dbo:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/AcademicProgrammesBranch/ThermalEngineering/">
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<dbc:Academic_degrees>Master of Technology (Mechanical Engineering)
+</dbc:Academic_degrees>
+	<dbo:duration>2 Years
+</dbo:duration>
+	<dbo:Type>Post Graduate Programmes
+</dbo:Type>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/Senate/Member"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/ServiceUnit/ITService/"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/AcademicProgrammesBranch/ProductionEngineering/"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/NA"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/ConsultingEngineeringServicesIndiaLtd/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<foaf:Person>NA</foaf:Person>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/Senate/Member">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>Dr. Prakash Chandra
+</foaf:Person>
+	<dbo:title>Professor, Mechanical Engineering Dept.
+</dbo:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/ServiceUnit/ITService/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<foaf:Person>Dr. Santosh Kumar
+</foaf:Person>
+	<dbo:title>Scientific &amp; Technical Officer
+</dbo:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/AcademicProgrammesBranch/ProductionEngineering/">
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<dbc:Academic_degrees>Master of Technology (Mechanical Engineering)
+</dbc:Academic_degrees>
+	<dbo:duration>2 Years
+</dbo:duration>
+	<dbo:Type>Post Graduate Programmes
+</dbo:Type>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/Senate/Member"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/ServiceUnit/AcademicsExaminationScholarship/"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/AcademicProgrammesBranch/DesignEngineering/"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/NA"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/ContinentalIndia/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>NA</foaf:Person>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/Senate/Member">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>Dr. A. N. Sinha
+</foaf:Person>
+	<dbo:title>Professor, Mechanical Engineering Dept.
+</dbo:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/ServiceUnit/AcademicsExaminationScholarship/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<foaf:Person>Shri Shardul Vikram
+</foaf:Person>
+	<dbo:title>Assistant Registrar
+</dbo:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/AcademicProgrammesBranch/DesignEngineering/">
+	<dbo:duration>2 Years
+</dbo:duration>
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<dbc:Academic_degrees>Master of Technology (Mechanical Engineering)
+</dbc:Academic_degrees>
+	<dbo:Type>Post Graduate Programmes
+</dbo:Type>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/Senate/ExternalMember"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/ServiceUnit/Establishment/"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/AcademicProgrammesBranch/AutomobileEngineering/"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/NA"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/Denso/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>NA</foaf:Person>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/Senate/ExternalMember">
+	<dbo:title>Former Director, IIT BHU
+</dbo:title>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>Prof. K. P. Singh
+</foaf:Person>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/ServiceUnit/Establishment/">
+	<dbo:title>Assistant Registrar
+</dbo:title>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<foaf:Person>Shri Rajesh Kumar
+</foaf:Person>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/AcademicProgrammesBranch/AutomobileEngineering/">
+	<dbo:Type>Post Graduate Programmes
+</dbo:Type>
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<dbc:Academic_degrees>Master of Technology (Mechanical Engineering)
+</dbc:Academic_degrees>
+	<dbo:duration>2 Years
+</dbo:duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/Senate/ExternalMember"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/ServiceUnit/SecurityHousekeeping/"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/AcademicProgrammesBranch/RenewableEnergyTechnology/"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/NA"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/EndeavorCareersPvtLtd/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>NA</foaf:Person>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/Senate/ExternalMember">
+	<dbo:title>Vice-Chancellor, LNMU, Darbhanga
+</dbo:title>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>Prof. S. K. Singh
+</foaf:Person>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/ServiceUnit/SecurityHousekeeping/">
+	<dbo:title>Assistant Registrar
+</dbo:title>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<foaf:Person>Sri J P Sharma
+</foaf:Person>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/AcademicProgrammesBranch/RenewableEnergyTechnology/">
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<dbc:Academic_degrees>Master of Technology (Mechanical Engineering)
+</dbc:Academic_degrees>
+	<dbo:duration>2 Years
+</dbo:duration>
+	<dbo:Type>Post Graduate Programmes
+</dbo:Type>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/Senate/ExternalMember"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/ServiceUnit/FinanceAccounts/"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/AcademicProgrammesBranch/InformationTechnology/"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/NA"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/EngineersIndiaLtdEIL/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>NA</foaf:Person>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/Senate/ExternalMember">
+	<dbo:title>Pro-Vice Chancellor,
+Guru-Govind Singh Indraprastha University,
+New Delhi.
+</dbo:title>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>Prof. Pushplata Tripathi
+</foaf:Person>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/ServiceUnit/FinanceAccounts/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<foaf:Person>Sri Sunny Choudhary
+</foaf:Person>
+	<dbo:title>Assistant Registrar
+</dbo:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/AcademicProgrammesBranch/InformationTechnology/">
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<dbc:Academic_degrees>Master of Technology (Computer Science &amp; Engineering)
+</dbc:Academic_degrees>
+	<dbo:duration>2 Years
+</dbo:duration>
+	<dbo:Type>Post Graduate Programmes
+</dbo:Type>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/Senate/ExOfficioMemberSecretary"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/ServiceUnit/Academics/"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/AcademicProgrammesBranch/ComputerScienceEngineering/"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/NA"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/ERAGroup/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>NA</foaf:Person>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/Senate/ExOfficioMemberSecretary">
+	<dbo:title>Registrar, NIT Patna
+</dbo:title>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>Dr. Asit Narayan
+</foaf:Person>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/ServiceUnit/Academics/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<foaf:Person>Sri Abhay Kumar
+</foaf:Person>
+	<dbo:title>Assistant Registrar
+</dbo:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/AcademicProgrammesBranch/ComputerScienceEngineering/">
+	<dbo:Type>Post Graduate Programmes
+</dbo:Type>
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<dbc:Academic_degrees>Master of Technology (Computer Science &amp; Engineering)
+</dbc:Academic_degrees>
+	<dbo:duration>2 Years
+</dbo:duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/ServiceUnit/StudentActivityandSports/"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/AcademicProgrammesBranch/CommunicationSystems/"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/NA"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/EricssonIndia/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<foaf:Person>NA</foaf:Person>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/ServiceUnit/StudentActivityandSports/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<foaf:Person>Sri Arijit Putatunda
+</foaf:Person>
+	<dbo:title>Officer In-charge
+</dbo:title>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/AcademicProgrammesBranch/CommunicationSystems/">
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<dbc:Academic_degrees>Master of Technology (Electronics &amp; Communication Engineering)
+</dbc:Academic_degrees>
+	<dbo:duration>2 Years
+</dbo:duration>
+	<dbo:Type>Post Graduate Programmes
+</dbo:Type>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<dbo:department rdf:resource="http://nitp.ac.in/NA"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/FLAREUMSolarTechnologyLtd/"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/NA"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/AcademicProgrammesBranch/VLSISystemDesignandMicroelectronics/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>NA</foaf:Person>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/AcademicProgrammesBranch/VLSISystemDesignandMicroelectronics/">
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<dbc:Academic_degrees>Master of Technology (Electronics &amp; Communication Engineering)
+</dbc:Academic_degrees>
+	<dbo:Type>Post Graduate Programmes
+</dbo:Type>
+	<dbo:duration>2 Years
+</dbo:duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/NA"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/AcademicProgrammesBranch/UrbanandRegionalPlanning/"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/NA"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/GammonIndia/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<foaf:Person>NA</foaf:Person>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/AcademicProgrammesBranch/UrbanandRegionalPlanning/">
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<dbc:Academic_degrees>Master in Urban &amp; Regional Planning(MURP)
+</dbc:Academic_degrees>
+	<dbo:duration>2 Years
+</dbo:duration>
+	<dbo:Type>Post Graduate Programmes
+</dbo:Type>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/NA"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/AcademicProgrammesBranch/ComputationalMathematics/"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/NA"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/GodrejBoyceMfgCo/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>NA</foaf:Person>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/AcademicProgrammesBranch/ComputationalMathematics/">
+	<dbo:Type>Post Graduate Programmes
+</dbo:Type>
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<dbc:Academic_degrees>M. Tech (Computational Mathematics)
+</dbc:Academic_degrees>
+	<dbo:duration>2 Years
+</dbo:duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/NA"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/AcademicProgrammesBranch/NanoscienceandTechnology/"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/NA"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/GroupsoftITServicesPvtLtd/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<foaf:Person>NA</foaf:Person>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/AcademicProgrammesBranch/NanoscienceandTechnology/">
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<dbc:Academic_degrees>M. Tech (Nanoscience and Technology)
+</dbc:Academic_degrees>
+	<dbo:duration>2 Years
+</dbo:duration>
+	<dbo:Type>Post Graduate Programmes
+</dbo:Type>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/NA"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/AcademicProgrammesBranch/IntegratedMScinChemistry/"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/NA"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/Havells/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>NA</foaf:Person>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/AcademicProgrammesBranch/IntegratedMScinChemistry/">
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<dbc:Academic_degrees>M. Sc.(Chemistry)
+</dbc:Academic_degrees>
+	<dbo:duration>5 Years
+</dbo:duration>
+	<dbo:Type>Five Years Integrated Programs
+</dbo:Type>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/NA"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/AcademicProgrammesBranch/IntegratedMScinMathematics/"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/NA"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/HCL/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<foaf:Person>NA</foaf:Person>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/AcademicProgrammesBranch/IntegratedMScinMathematics/">
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<dbc:Academic_degrees>M. Sc.(Mathematics)
+</dbc:Academic_degrees>
+	<dbo:duration>5 Years
+</dbo:duration>
+	<dbo:Type>Five Years Integrated Programs
+</dbo:Type>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/NA"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/AcademicProgrammesBranch/IntegratedMScinPhysics/"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/NA"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/HDFCLtd/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<foaf:Person>NA</foaf:Person>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/AcademicProgrammesBranch/IntegratedMScinPhysics/">
+	<dbc:Academic_degrees>M. Sc.(Physics)
+</dbc:Academic_degrees>
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<dbo:duration>5 Years
+</dbo:duration>
+	<dbo:Type>Five Years Integrated Programs
+</dbo:Type>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/NA"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/NA"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/HellaElectronicsIndiaLtd/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>NA</foaf:Person>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/NA"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/NA"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/HeroMotocorpLtd/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<foaf:Person>NA</foaf:Person>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/NA"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/NA"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/Hindalco/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>NA</foaf:Person>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/NA"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/NA"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/HPCL/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>NA</foaf:Person>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/NA"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/NA"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/HyderabadIndustriesLtd/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<foaf:Person>NA</foaf:Person>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/NA"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/NA"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/IBMIndiaPvtLtd/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<foaf:Person>NA</foaf:Person>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/NA"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/NA"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/ILFS/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>NA</foaf:Person>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/NA"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/NA"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/IndianAirForce/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>NA</foaf:Person>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/NA"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/NA"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/IndianArmy/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<foaf:Person>NA</foaf:Person>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/NA"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/NA"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/IndianNavy/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>NA</foaf:Person>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/Infosys/"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/NA"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/NA"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>NA</foaf:Person>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/NA"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/NA"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/IOCL/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<foaf:Person>NA</foaf:Person>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/NA"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/NA"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/ITCInfotech/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<foaf:Person>NA</foaf:Person>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/NA"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/NA"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/ITDCLtd/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>NA</foaf:Person>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/NA"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/NA"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/JindalSteelPowerLtd/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<foaf:Person>NA</foaf:Person>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/NA"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/NA"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/KazstroyEngineeringIndiaPvtLtd/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>NA</foaf:Person>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/NA"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/NA"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/Khorus/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<foaf:Person>NA</foaf:Person>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/NA"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/NA"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/Kribhco/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<foaf:Person>NA</foaf:Person>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/NA"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/NA"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/LTECC/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<foaf:Person>NA</foaf:Person>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/NA"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/NA"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/LTPowai/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>NA</foaf:Person>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/NA"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/NA"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/MagnetiMarelii/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<foaf:Person>NA</foaf:Person>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/NA"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/NA"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/MahindraMahindra/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<foaf:Person>NA</foaf:Person>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/NA"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/NA"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/MatixFertilizers/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>NA</foaf:Person>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/NA"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/NA"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/MarutiSuzuki/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>NA</foaf:Person>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/NA"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/NA"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/MeconLtd/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>NA</foaf:Person>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/NA"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/NA"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/Microsoft/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>NA</foaf:Person>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/NA"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/NA"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/MuSigma/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>NA</foaf:Person>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/NA"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/NA"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/NTPCLtd/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>NA</foaf:Person>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/NA"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/NA"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/OceaneeringInternationalService/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>NA</foaf:Person>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/NA"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/NA"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/OracleIndia/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>NA</foaf:Person>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/NA"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/NA"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/Pfizer/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>NA</foaf:Person>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<dct:subject rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/NA"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/NA"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/PolarisFinancialTechnologyLtd/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>NA</foaf:Person>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/NA"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/NA"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/PricewaterhouseCoopersPvtLtdGRIDPowerUtilities/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>NA</foaf:Person>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/NA"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/NA"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/Rancore/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>NA</foaf:Person>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/NA"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/NA"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/RelianceIndustriesLtd/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>NA</foaf:Person>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/NA"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/NA"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/REVESystem/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>NA</foaf:Person>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/NA"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/NA"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/RITESLtd/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>NA</foaf:Person>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/NA"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/NA"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/SaintGobainGlassIndiaLtd/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>NA</foaf:Person>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/NA"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/NA"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/SamsungRD/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>NA</foaf:Person>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/NA"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/NA"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/SamsungSoftwareEngineeringLabIndia/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>NA</foaf:Person>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/NA"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/NA"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/SapLabIndia/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>NA</foaf:Person>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/NA"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/NA"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/SiemensLtd/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>NA</foaf:Person>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/NA"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/NA"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/SimplexInfrastructures/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>NA</foaf:Person>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/NA"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/NA"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/SobhaDevelopers/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>NA</foaf:Person>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/NA"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/NA"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/SUZUKIPowerTrainIndiaLtd/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>NA</foaf:Person>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/NA"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/NA"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/Syntel/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>NA</foaf:Person>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/NA"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/NA"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/TataMotors/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>NA</foaf:Person>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/NA"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/NA"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/TataSteelLtdJameshedpur/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>NA</foaf:Person>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/NA"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/NA"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/TriconInfoTech/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>NA</foaf:Person>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/NA"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/NA"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/TridentGroup/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>NA</foaf:Person>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/NA"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/NA"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/UnisysGlobalServices/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>NA</foaf:Person>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/NA"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/NA"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/UvacaDigitalSystemsPvtLtd/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>NA</foaf:Person>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/NA"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/NA"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/Vedanta/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>NA</foaf:Person>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/NA"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/NA"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/Verizon/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>NA</foaf:Person>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/NA"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/NA"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/VirajProfilesLtd/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>NA</foaf:Person>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/NA"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/NA"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/WiproTechnologies/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>NA</foaf:Person>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/college/NationalInstitueofTechnology,Patna/">
+	<dbo:board rdf:resource="http://nitp.ac.in/NA"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/University"/>
+	<dbo:committee rdf:resource="http://nitp.ac.in/NA"/>
+	<dct:subject rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:department rdf:resource="http://nitp.ac.in/NA"/>
+	<foaf:Person rdf:resource="http://nitp.ac.in/NA"/>
+	<dbo:company rdf:resource="http://nitp.ac.in/recruiters/YodleeInfotech/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://nitp.ac.in/NA">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<foaf:Person>NA</foaf:Person>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/board"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/committee"/>
+	<rdf:type rdf:resource="http://purl.org/dc/terms/subject"/>
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/department"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+
+</rdf:RDF>
